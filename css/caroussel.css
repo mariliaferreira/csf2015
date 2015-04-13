@@ -353,20 +353,125 @@ body {
   color: #fff;
 }
 
+.botoes-indicadores{
+  margin-top: 40px;
+}
+
 .botoes-indicadores div{
   width: 30%;
   margin-right: 2%;
   margin-bottom: 2%;
   float: left;
-  background-color: orange;
   text-align: center;
   padding: 50px 0;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px;
+  color: #fff;
+}
+
+.botoes-indicadores span{
+  font-size: 1.3em;
 }
 
 .clear{
   clear:both;
 }
 
+
+
+.botao-1{
+  background-color: rgba(53, 164, 51, 1);
+  -moz-transition: all .1s ease-in;
+  -o-transition: all .1s ease-in;
+  -webkit-transition: all .1s ease-in;
+  transition: all .1s ease-in;
+}
+
+.botao-1:hover{
+  background-color: rgba(53, 164, 51, 0.8);
+  -moz-transition: all .1s ease-in;
+  -o-transition: all .1s ease-in;
+  -webkit-transition: all .1s ease-in;
+  transition: all .1s ease-in;
+}
+
+.botao-2{
+   background-color: rgba(53, 164, 51, 0.9);
+   -moz-transition: all .1s ease-in;
+  -o-transition: all .1s ease-in;
+  -webkit-transition: all .1s ease-in;
+  transition: all .1s ease-in;
+}
+
+.botao-2:hover{
+   background-color: rgba(53, 164, 51, 0.7);
+   -moz-transition: all .1s ease-in;
+  -o-transition: all .1s ease-in;
+  -webkit-transition: all .1s ease-in;
+  transition: all .1s ease-in;
+}
+
+.botao-3{
+   background-color: rgba(53, 164, 51, 0.8);
+   -moz-transition: all .1s ease-in;
+  -o-transition: all .1s ease-in;
+  -webkit-transition: all .1s ease-in;
+  transition: all .1s ease-in;
+}
+
+.botao-3:hover{
+   background-color: rgba(53, 164, 51, 0.6);
+   -moz-transition: all .1s ease-in;
+  -o-transition: all .1s ease-in;
+  -webkit-transition: all .1s ease-in;
+  transition: all .1s ease-in;
+}
+
+.botao-4{
+   background-color: rgba(53, 164, 51, 0.7);
+   -moz-transition: all .1s ease-in;
+  -o-transition: all .1s ease-in;
+  -webkit-transition: all .1s ease-in;
+  transition: all .1s ease-in;
+}
+
+.botao-4:hover{
+   background-color: rgba(53, 164, 51, 0.5);
+   -moz-transition: all .1s ease-in;
+  -o-transition: all .1s ease-in;
+  -webkit-transition: all .1s ease-in;
+  transition: all .1s ease-in;
+}
+
+.botao-5{
+   background-color: rgba(53, 164, 51, 0.6);
+   -moz-transition: all .1s ease-in;
+  -o-transition: all .1s ease-in;
+  -webkit-transition: all .1s ease-in;
+  transition: all .1s ease-in;
+}
+
+.botao-5:hover{
+   background-color: rgba(53, 164, 51, 0.4);
+   -moz-transition: all .1s ease-in;
+  -o-transition: all .1s ease-in;
+  -webkit-transition: all .1s ease-in;
+  transition: all .1s ease-in;
+}
+
+.botao-6{
+   background-color: rgba(53, 164, 51, 0.5);
+   -moz-transition: all .1s ease-in;
+  -o-transition: all .1s ease-in;
+  -webkit-transition: all .1s ease-in;
+  transition: all .1s ease-in;
+}
+
+.botao-6:hover{
+   background-color: rgba(53, 164, 51, 0.3);
+   -moz-transition: all .1s ease-in;
+  -o-transition: all .1s ease-in;
+  -webkit-transition: all .1s ease-in;
+  transition: all .1s ease-in;
+}

@@ -43,37 +43,37 @@
         <div class="botoes-indicadores">
 
           <a href="">
-            <div>
+            <div class="botao-1">
               <span>Bolsas por país</span>
             </div>
           </a>
 
           <a href="">
-            <div>
+            <div class="botao-2">
               <span>Alunos CsF/PUCPR por áreas</span>
             </div>
           </a>
 
           <a href="">
-            <div>
+            <div class="botao-3">
               <span>Alunos por curso</span>
             </div>
           </a>
 
           <a href="">
-            <div>
+            <div class="botao-4">
               <span>Bolsas por formação</span>
             </div>
           </a>
 
           <a href="">
-            <div>
+            <div class="botao-5">
               <span>Bolsas por gênero</span>
             </div>
           </a>
 
           <a href="">
-            <div>
+            <div class="botao-6">
               <span>Perfil dos estudantes de Intercâmbio</span>
             </div>
           </a>

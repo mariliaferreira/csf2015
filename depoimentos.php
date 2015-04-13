@@ -266,7 +266,7 @@ Acredito ter aprendido muito durante meu ano no exterior e mesmo se pudesse não
              <h3>Marilia Antunes Ferreira</h3>
              <h4>Reino Unido, Dundee - University of Dundee</h4>
              <span  class="botao-curso-depoimento-2013">Design Digital</span>
-             <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+             <p>"O Ciência sem Fronteiras me proporcionou oportunidades pelas quais me considero uma pessoa de sorte. Morei por um ano na cidade de Dundee, na Escócia (Reino Unido). Quando cheguei lá, rapidamente tive a sensação de estar em casa, pois tive sorte de conhecer pessoas muito queridas (colegas brasileiros e escoceses). Estar perto de Londres também foi uma grande vantagem, pois tive a oportunidade de conhecer o escritório do Mozilla e o escritório da Adobe - oportunidade que todo designer adoraria ter. Nos últimos meses tive a enorme chance de trabalhar em um projeto de pesquisa com um professor da universidade que foi diretor da IDEO de Londres. Todas essas experiências me completaram e me inspiraram a seguir adiante, e a ter certeza que fiz a escolha certa na minha carreira."</p>
             </div>
 
             <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
