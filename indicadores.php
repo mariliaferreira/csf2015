@@ -37,9 +37,51 @@
         <div class="page-header">
           <h1>Indicadores</h1>
         </div>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+        <div class="botoes-indicadores">
+
+          <a href="">
+            <div>
+              <span>Bolsas por país</span>
+            </div>
+          </a>
+
+          <a href="">
+            <div>
+              <span>Alunos CsF/PUCPR por áreas</span>
+            </div>
+          </a>
+
+          <a href="">
+            <div>
+              <span>Alunos por curso</span>
+            </div>
+          </a>
+
+          <a href="">
+            <div>
+              <span>Bolsas por formação</span>
+            </div>
+          </a>
+
+          <a href="">
+            <div>
+              <span>Bolsas por gênero</span>
+            </div>
+          </a>
+
+          <a href="">
+            <div>
+              <span>Perfil dos estudantes de Intercâmbio</span>
+            </div>
+          </a>
+
+        </div>
         
 
-
+    <div class="clear"></div>
 
 
       

@@ -36,8 +36,6 @@
           <h1>Depoimentos</h1>
         </div>
 
-
-
         <span class="estilo-ano-turma-2014">Turma de 2014</span>
 
         <div class="depoimento-total">
@@ -101,6 +99,18 @@
              <p>"Será difícil resumir em um parágrafo todas as experiências vividas no ano passado. As lembranças de ser escolhido o melhor trabalho e ser premiado por prestar uma consultoria numa empresa local, de quase ser sequestrado por um taxista na Polônia, ou de perder o trem e passar a noite em claro numa estação no meio do nada na Alemanha, ou até mesmo passar o ano inteiro tentando entender o sotaque escocês, com certeza, nunca serão esquecidas. As viagens, amizades e o crescimento do dia-a-dia, vivendo num país tão diferente do nosso, serão levados comigo para sempre!"</p>
             </div>
 
+
+            <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
+             <img src="img/depoimentos-fotos/depoimento-jose-monteiro.jpg" class="foto-depoimento borda-img-2014"/>
+             <h3>José Monteiro da Gama Tetraneto</h3>
+             <h4>Austrália, Sydney - University of Technology Sydney 
+</h4>
+             <span  class="botao-curso-depoimento">Engenharia Mecânica</span>
+             <p>"O Ciência sem Fronteiras definitivamente me proporcionou os melhor 15 meses da minha vida. Pude estudar em uma universidade que é referencia internacional na área tecnológica, fiz alguns dos meus melhores amigos lá, tive a oportunidade de conhecer diversas culturas, evolui tanto pessoalmente quanto profissionalmente e só quando estava em intercâmbio que realmente fui conhecer o Brasil. O programa foi um divisor de águas na minha vida, criando diversas oportunidades para mim. Recomendo o Ciências sem Fronteiras à todos que tem o desejo de crescer pessoalmente e principalmente, profissionalmente."</p>
+            </div>
+
+
+
             <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
              <img src="img/depoimentos-fotos/depoimento-leticia-caires.jpg" class="foto-depoimento borda-img-2014"/>
              <h3>Leticia Borba Caires</h3>
@@ -109,6 +119,17 @@
              <span  class="botao-curso-depoimento">Ciências Biológicas</span>
              <p>"O intercâmbio que realizei pelo CsF foi, sem dúvida, a experiência mais importante da minha vida acadêmica e profissional. Não apenas pela oportunidade da vivência no exterior mas principalmente, por realizar o curso de língua estrangeira e poder cursar a universidade completamente inserida em uma cultura muito diferente. Ao todo, estive por 18 meses na Austrália, vivendo em Sydney, e pude conhecer pessoas das mais variadas etnias, o que contribuiu de forma imensurável em toda a experiência.  "</p>
             </div>
+
+
+            <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
+             <img src="img/depoimentos-fotos/depoimento-maria.jpg" class="foto-depoimento borda-img-2014"/>
+             <h3>Maria Helena da Rosa Farfan</h3>
+             <h4>Reino Unido, Stirling - University of Stirling</h4>
+             <span  class="botao-curso-depoimento">Biotecnologia</span>
+             <p>"O programa Ciência sem Fronteiras me ofereceu a experiência de morar e estudar no exterior. Durante esse período eu fiz amigos que me apresentaram suas culturas, modifiquei minha visão de mundo, descobri uma paixão por viajar e conhecer novos lugares e pude me tornar mais confiante no meu segundo idioma.
+            A oportunidade de ter aula, de poder cursas matérias que não fazem parte do meu currículo de graduação no Brasil (mas que vão enriquecer a minha formação), de conhecer e me adaptar a um novo sistema educacional e de fazer um estágio com acadêmicos renomados me fez ponderar mais sobre as decisões que vão influenciar o meu futuro e me deram a chance de ser positivamente influenciada pelos profissionais que tive contato."</p>
+            </div>
+
 
             <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
              <img src="img/depoimentos-fotos/depoimento-mauricio-bottas.jpg" class="foto-depoimento borda-img-2014"/>
@@ -161,9 +182,18 @@ Acredito ter aprendido muito durante meu ano no exterior e mesmo se pudesse não
 
 
             <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
+             <img src="img/depoimentos-fotos/depoimento-tiago-maass.jpg" class="foto-depoimento borda-img-2014"/>
+             <h3>Thiago Maass Steiner</h3>
+             <h4>Austrália, Melbourne - The University of Melbourne</h4>
+             <span  class="botao-curso-depoimento">Ciências Biológicas</span>
+             <p>"O período em que passei na Austrália foi uma experiência acadêmica e pessoal maravilhosa. Primeiramente, poder estudar e fazer pesquisa em uma das melhores universidades do mundo foi uma oportunidade única. Saber que você está dividindo o elevador do prédio em que faz estágio com alguém que foi Laureado com um Prêmio Nobel é algo inexplicável.  Além disso, tive a chance de morar e conviver com uma família local. Isso foi ótimo para realmente viver a cultura do lugar e aprofundar o conhecimento na língua local. Finalmente, aprendi a lidar com muitas dificuldades, como ansiedade e até mesmo depressão em certos momentos. Lidar com esses problemas fizeram com que eu crescesse muito pessoalmente, tornando o intercâmbio algo ainda mais valioso."</p>
+            </div>
+
+
+            <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
              <img src="img/depoimentos-fotos/depoimento-vitor-benetti.jpg" class="foto-depoimento borda-img-2014"/>
              <h3>Vitor Piassa Benetti</h3>
-             <h4>Kitchener, Ontário, Canadá - Conestoga College 
+             <h4>Canadá, Kitchener, Ontário - Conestoga College 
 </h4>
              <span  class="botao-curso-depoimento">Engenharia Civil</span>
              <p>"Olá futuros intercambistas, espero poder contribuir de alguma maneira em suas futuras decisões. Desde que me escrevi para o programa de intercâmbio sabia o que estava disposto a passar, não só pelo tempo longe, mas por uma nova diversidade de cultura. A experiência de morar e a vivência em um país de primeiro mundo é fundamental se queremos que um dia nosso Brasil seja considerado como tal. Sou grato pelas experiências que tive, e que de alguma forma contribuíram para a minha evolução, tais como o contato com uma população extremamente educada, o aperfeiçoamento do meu inglês, convivência com pessoas de diferentes países do mundo, assim como, amigos que fiz aqui, do Brasil inteiro, e que vou levar para minha vida. Além disso, pude comprovar que nossa faculdade não deixa nada a desejar em relação a estrutura e qualidade do curso, comparada com o campus que aqui estou estudando. Em relação ao entretenimento, isso tem em todo o lugar, e, é só planejar o tempo para conhecer os costumes, esportes, pontos turísticos, que são muitos, e o que as pessoas fazem como lazer e diversão. Saudade e tristeza sempre acabam aparecendo, fazendo parte do dia a dia, mas é passageiro e isso também tem em todo lugar, a qualquer distância. Desejo a todos muito sucesso. Um abraço!"</p>
@@ -185,6 +215,24 @@ Acredito ter aprendido muito durante meu ano no exterior e mesmo se pudesse não
             Compartilhar é umas das melhores formas de agregar conhecimento, eu tive a oportunidade de interagir com o multicultural, através de viagens, universidades e pessoas, e com toda história que a Europa tem a oferecer como velho continente. 
             Portanto, sem dúvidas, outro intercambio pelo Ciências Sem Fronteiras é um dos caminhos que gostaria percorrer."</p>
             </div>
+
+
+            <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
+             <img src="img/depoimentos-fotos/depoimento-cassio.jpg" class="foto-depoimento borda-img-2013"/>
+             <h3>Cássio Augusto da Silva</h3>
+             <h4>Canadá, Toronto - University of Toronto</h4>
+             <span  class="botao-curso-depoimento-2013">Engenharia de Controle e Automação</span>
+             <p>"Estudar em uma das melhores universidades do mundo, viver plenamente cada estação do ano, fazer parte de uma sociedade que adota o Inglês e Francês como idiomas oficias são algumas das experiências inesquecíveis que o Canadá propicia. Neste período de intercâmbio fiz amizades com pessoas de várias partes do mundo: indianos, italianos, peruanos, asiáticos, canadenses e brasileiros de outras regiões. Apesar do inverno rigoroso, me apaixonei pelos esportes de inverno (hóquei, esqui, snowboard), e fiz deles meu passatempo nos momentos de lazer.."</p>
+            </div>
+
+            <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
+             <img src="img/depoimentos-fotos/depoimento-cleiton.jpg" class="foto-depoimento borda-img-2013"/>
+             <h3>Cleiton Ferreira dos Santos</h3>
+             <h4>Canadá, Thunder Bay - Lakehead University</h4>
+             <span  class="botao-curso-depoimento-2013">Engenharia de Controle e Automação</span>
+             <p>"A possibilidade de intercâmbio através do Ciências sem Fronteiras foi uma das melhores escolhas da minha vida. Houve muito aprendizado durante os 18 meses no Canadá. Não apenas acadêmico, mas, principalmente, cultural. Vivenciar a cultura canadense me mostrou o quanto o Brasil esta defasado culturalmente, onde lá – país de primeiro mundo – a educação é algo essencial para qualquer profissional de qualquer área. Enfim, a oportunidade de intercâmbio pelo CsF além do contato e vivência da cultura do país de destino, faz com que o estudante se desenvolva ainda mais, pois o programa conta com um período de estágio e/ou pesquisa na qual o aluno deve se comprometer a desenvolver e entregar resultados, e, em particular no meu caso, desenvolver equipamentos e dispositivos que possam ajudar e auxiliar ao tratamento de câncer de próstata através de um novo método – o HIFU (High Intensity Focused Ultrasound), tratamento não invasivo e tão eficiente quanto os métodos tradicionais. Acredito que esta experiência tenha sido a mais marcante entre todas as vivenciadas no Canadá."</p>
+            </div>
+
 
             <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
              <img src="img/depoimentos-fotos/depoimento-felipe-oliveira.jpg" class="foto-depoimento borda-img-2013"/>
@@ -256,6 +304,18 @@ O CsF, sem dúvidas, além de abrir portas (acadêmica, profissional e culturalm
              <p>"Durante o intercâmbio pude conhecer pessoas e culturas de diversos países, adquirir um importante conhecimento na minha área, criar amizades verdadeiras, e tudo isso será de fundamental importância para minha vida pessoal e profissional. Acertei em escolher a VU University Amsterdam, que une um ensino de alto nível numa estrutura de primeira, a uma importante capital da Europa com muitas opções de entretenimento e lazer para todos os gostos, e ao mesmo tempo pequena e fácil de se locomover pela cidade inteira."</p>
 
             </div>
+
+
+            <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
+             <img src="img/depoimentos-fotos/depoimento-william.jpg" class="foto-depoimento borda-img-2013"/>
+             <h3>William Schineider Rabelo</h3>
+             <h4>Hungria, Budapeste - Budapest University of Technology and Economics</h4>
+             <span  class="botao-curso-depoimento-2013">Engenharia Civil</span>
+             <p>"Durante o intercâmbio pude conhecer pessoas e culturas de diversos países, adquirir um importante conhecimento na minha área, criar amizades verdadeiras, e tudo isso será de fundamental importância para minha vida pessoal e profissional. Acertei em escolher a VU University Amsterdam, que une um ensino de alto nível numa estrutura de primeira, a uma importante capital da Europa com muitas opções de entretenimento e lazer para todos os gostos, e ao mesmo tempo pequena e fácil de se locomover pela cidade inteira."</p>
+
+            </div>
+
+
         </div>
 
 

@@ -353,3 +353,20 @@ body {
   color: #fff;
 }
 
+.botoes-indicadores div{
+  width: 30%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+  float: left;
+  background-color: orange;
+  text-align: center;
+  padding: 50px 0;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+
+.clear{
+  clear:both;
+}
+
