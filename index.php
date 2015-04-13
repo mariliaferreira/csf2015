@@ -107,7 +107,7 @@
           <img class="img-circle" src="img/depoimentos-icone.png" alt="Generic placeholder image" width="140" height="140">
           <h2>Depoimentos</h2>
           <p>Saiba como foi a experiência dos alunos PUCPR que já foram para o intercâmbio Ciência sem Fronteiras.</p>
-          <p><a class="btn btn-default btn-depoimentos" href="#" role="button">Ver detalhes &raquo;</a></p>
+          <p><a class="btn btn-default btn-depoimentos" href="depoimentos.php" role="button">Ver detalhes &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4 duvidas-div">
           <img class="img-circle" src="img/duvidas-icone.png" alt="Generic placeholder image" width="140" height="140">

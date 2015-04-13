@@ -198,14 +198,27 @@ body {
   padding-left: 270px;
   font-family: 'humnst777_lt_btlight';
   line-height: 170%;
+  margin-top: 2%;
 }
 
 .depoimento-pagina h3{
   padding-left: 270px;
+  font-family: 'humnst777_btbold';
 }
 
 .depoimento-pagina h4{
   padding-left: 270px;
+  padding-bottom: 1%;
+}
+
+.depoimento-pagina span{
+  margin-left: 70px;
+  border: 1px solid #5FD7E0;
+  padding: 10px 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #02A1AD;
 }
 
 .depoimento-pagina{
@@ -222,6 +235,7 @@ body {
   border-radius: 50%;
   width: 200px;
   float: left;
+  border: 3px solid #02A1AD;
 }
 
 .depoimento-total{
