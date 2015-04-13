@@ -11,7 +11,11 @@
     <link href="css/caroussel.css" rel="stylesheet">
     <link href="css/font-stylesheet.css" rel="stylesheet">
 
+    
+    <link rel="stylesheet" type="text/css" href="css/tabs.css" />
+    <link rel="stylesheet" type="text/css" href="css/tabstyles.css" />
 
+    <script src="js/modernizr.custom.js"></script>
     <script src="js/bootstrap.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/npm.js"></script>
@@ -35,59 +39,38 @@
 
 
         <div class="page-header">
-          <h1>Indicadores Ciência sem Fronteiras na PUCPR</h1>
+          <h1>Mapa</h1>
         </div>
 
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-        <div class="botoes-indicadores">
-
-          <a href="mapa-csf-pucpr.php">
-            <div class="botao-1">
-              <span>Bolsas CsF - Mapa</span>
-            </div>
-          </a>
-
-          <a href="">
-            <div class="botao-1">
-              <span>Bolsas por país</span>
-            </div>
-          </a>
-
-          <a href="">
-            <div class="botao-2">
-              <span>Alunos CsF/PUCPR por áreas</span>
-            </div>
-          </a>
-
-          <a href="">
-            <div class="botao-3">
-              <span>Alunos por curso</span>
-            </div>
-          </a>
-
-          <a href="">
-            <div class="botao-4">
-              <span>Bolsas por formação</span>
-            </div>
-          </a>
-
-          <a href="">
-            <div class="botao-5">
-              <span>Bolsas por gênero</span>
-            </div>
-          </a>
-
-          <a href="">
-            <div class="botao-6">
-              <span>Perfil dos estudantes de Intercâmbio</span>
-            </div>
-          </a>
-
-        </div>
         
 
-    <div class="clear"></div>
+        <section>
+          <div class="tabs tabs-style-iconbox">
+            <nav>
+              <ul>
+                <li><a href="#section-iconbox-1"><span>América do Norte</span></a></li>
+                <li><a href="#section-iconbox-2"><span>América do Sul</span></a></li>
+                <li><a href="#section-iconbox-3"><span>Ásia</span></a></li>
+                <li><a href="#section-iconbox-4"><span>Europa</span></a></li>
+                <li><a href="#section-iconbox-5"><span>África</span></a></li>
+                <li><a href="#section-iconbox-5"><span>Oceania</span></a></li>
+
+              </ul>
+            </nav>
+            <div class="content-wrap">
+              <section id="section-iconbox-1">
+                <p>1</p>
+              </section>
+              <section id="section-iconbox-2"><p>2</p></section>
+              <section id="section-iconbox-3"><p>3</p></section>
+              <section id="section-iconbox-4"><p>4</p></section>
+              <section id="section-iconbox-5"><p>5</p></section>
+              <section id="section-iconbox-6"><p>6</p></section>
+            </div><!-- /content -->
+          </div><!-- /tabs -->
+      </section>
 
 
       
@@ -114,6 +97,17 @@
     <script src="js/vendor/holder.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="js/ie10-viewport-bug-workaround.js"></script>
+
+    <script src="js/cbpFWTabs.js"></script>
+    <script>
+      (function() {
+
+        [].slice.call( document.querySelectorAll( '.tabs' ) ).forEach( function( el ) {
+          new CBPFWTabs( el );
+        });
+
+      })();
+    </script>
   </body>
 </html>
 
