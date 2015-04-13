@@ -211,7 +211,7 @@ body {
   padding-bottom: 1%;
 }
 
-.depoimento-pagina span{
+.botao-curso-depoimento{
   margin-left: 70px;
   border: 1px solid #5FD7E0;
   padding: 10px 20px;
@@ -221,8 +221,41 @@ body {
   color: #02A1AD;
 }
 
+.botao-curso-depoimento-2013{
+  margin-left: 70px;
+  border: 1px solid #35A433;
+  padding: 10px 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #35A433;
+}
+
+.botao-curso-depoimento-2012{
+  margin-left: 70px;
+  border: 1px solid #F4B911;
+  padding: 10px 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #F4B911;
+}
+
+.borda-img-2014{
+  border: 5px solid #02A1AD;
+}
+
+.borda-img-2013{
+  border: 5px solid #35A433;
+}
+
+.borda-img-2012{
+  border: 5px solid #F4B911;
+}
+
+
 .depoimento-pagina{
-  margin-bottom: 80px;
+  margin-bottom: 40px;
   float: left;
   width: 100%;
 }
@@ -235,11 +268,11 @@ body {
   border-radius: 50%;
   width: 200px;
   float: left;
-  border: 3px solid #02A1AD;
 }
 
 .depoimento-total{
   width: 100%;
+  margin-top: 40px;
 }
 
 .col-lg-4 h2{
@@ -282,5 +315,41 @@ body {
     -o-transition: all .2s ease-in;
     -webkit-transition: all .2s ease-in;
     transition: all .2s ease-in;
+}
+
+.estilo-ano-turma-2014{
+  background-color: #39AEBF;
+  font-size: 2em;
+  font-family: 'humnst777_lt_btlight';
+  padding: 10px 30px;
+  margin-bottom: 50px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  color: #fff;
+}
+
+.estilo-ano-turma-2013{
+  background-color: #35A433;
+  font-size: 2em;
+  font-family: 'humnst777_lt_btlight';
+  padding: 10px 30px;
+  margin-bottom: 50px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  color: #fff;
+}
+
+.estilo-ano-turma-2012{
+  background-color: #F4B911;
+  font-size: 2em;
+  font-family: 'humnst777_lt_btlight';
+  padding: 10px 30px;
+  margin-bottom: 50px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  color: #fff;
 }
 
