@@ -101,7 +101,7 @@
           <img class="img-circle" src="img/graficos-icone.png" alt="Generic placeholder image" width="140" height="140">
           <h2>Indicadores CsF PUCPR</h2>
           <p>Resultados do Ciência sem Fronteiras na PUCPR desde 2012.</p>
-          <p><a class="btn btn-default btn-indicadores" href="#" role="button">Ver detalhes &raquo;</a></p>
+          <p><a class="btn btn-default btn-indicadores" href="indicadores.php" role="button">Ver detalhes &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4 depoimento-div">
           <img class="img-circle" src="img/depoimentos-icone.png" alt="Generic placeholder image" width="140" height="140">
