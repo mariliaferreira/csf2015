@@ -85,7 +85,7 @@ body {
 
 /* Carousel base class */
 .carousel {
-  height: 500px;
+  height: 450px;
   margin-bottom: 60px;
 }
 /* Since positioning the image, we need to help out the caption */
@@ -95,8 +95,16 @@ body {
 
 /* Declare heights because of positioning of img element */
 .carousel .item {
-  height: 500px;
-  background-color: #777;
+  height: 450px;
+  /*background-color: #777;*/
+  background: rgba(65,183,159,1);
+  background: -moz-linear-gradient(left, rgba(65,183,159,1) 0%, rgba(254,201,54,1) 100%);
+  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(65,183,159,1)), color-stop(100%, rgba(254,201,54,1)));
+  background: -webkit-linear-gradient(left, rgba(65,183,159,1) 0%, rgba(254,201,54,1) 100%);
+  background: -o-linear-gradient(left, rgba(65,183,159,1) 0%, rgba(254,201,54,1) 100%);
+  background: -ms-linear-gradient(left, rgba(65,183,159,1) 0%, rgba(254,201,54,1) 100%);
+  background: linear-gradient(to right, rgba(65,183,159,1) 0%, rgba(254,201,54,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#41b79f', endColorstr='#fec936', GradientType=1 );
 }
 .carousel-inner > .item > img {
   position: absolute;
@@ -483,22 +491,25 @@ body {
 }
 
 
-.path {
-  stroke-dasharray: 100;
-  animation: dash 5s linear;
+
+.botao-home{
+  background-color: #8b1217;
+  color: white;
+  border: 1px solid #66050C;
+  -moz-transition: all .1s ease-in;
+  -o-transition: all .1s ease-in;
+  -webkit-transition: all .1s ease-in;
+  transition: all .1s ease-in;
 }
 
-@-webkit-keyframes dash {
-  to {
-    stroke-dashoffset: 1000;
-  }
+.botao-home:hover{
+  background-color: #66050C;
+  -moz-transition: all .1s ease-in;
+  -o-transition: all .1s ease-in;
+  -webkit-transition: all .1s ease-in;
+  transition: all .1s ease-in;
 }
 
-@-webkit-keyframes dash {
-  from {
-    stroke-dashoffset: 1000;
-  }
-  to {
-    stroke-dashoffset: 0;
-  }
+a{
+  color: white;
 }

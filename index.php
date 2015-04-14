@@ -44,30 +44,30 @@
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <!-- <li data-target="#myCarousel" data-slide-to="2"></li> -->
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="img/photo-1.jpg" alt="First slide">
+          <img class="first-slide" src="img/photo-44.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>Somos 328 alunos CsF PUCPR pelo mundo.</h1>
-              <p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+              <p><a class="btn btn-lg btn-primary botao-home" href="#" role="button">Ver detalhes</a></p>
             </div>
           </div>
         </div>
         <div class="item">
-          <img class="second-slide" src="img/photo-2.jpg" alt="Second slide">
+          <img class="second-slide" src="img/photo-55.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Another example headline.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+              <h1>Depoimento dos intercâmbistas CsF da PUC.</h1>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+              <p><a class="btn btn-lg btn-primary botao-home" href="#" role="button">Ver detalhes</a></p>
             </div>
           </div>
         </div>
-        <div class="item">
+        <!-- <div class="item">
           <img class="third-slide" src="img/photo-3.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
@@ -76,7 +76,7 @@
               <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
