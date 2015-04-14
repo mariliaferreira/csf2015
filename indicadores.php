@@ -52,37 +52,37 @@
             </div>
           </a>
 
-          <a href="">
+          <a href="pagina-grafico.php">
             <div class="botao-1">
               <span>Bolsas por país</span>
             </div>
           </a>
 
-          <a href="">
+          <a href="pagina-grafico-1.php">
             <div class="botao-2">
               <span>Alunos CsF/PUCPR por áreas</span>
             </div>
           </a>
 
-          <a href="">
+          <a href="pagina-grafico-2.php">
             <div class="botao-3">
               <span>Alunos por curso</span>
             </div>
           </a>
 
-          <a href="">
+          <a href="pagina-grafico-3.php">
             <div class="botao-4">
               <span>Bolsas por formação</span>
             </div>
           </a>
 
-          <a href="">
+          <a href="pagina-grafico-4.php">
             <div class="botao-5">
               <span>Bolsas por gênero</span>
             </div>
           </a>
 
-          <a href="">
+          <a href="pagina-grafico-5.php">
             <div class="botao-6">
               <span>Perfil dos estudantes de Intercâmbio</span>
             </div>
@@ -98,10 +98,9 @@
 
 
       <!-- FOOTER -->
-      <footer>
-        <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2014 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
-      </footer>
+      <?php
+        require('componentes/footer.php');
+        ?>
 
     </div><!-- /.container -->
 

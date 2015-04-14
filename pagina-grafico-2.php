@@ -35,30 +35,22 @@
 
 
         <div class="page-header">
-          <h1>Contato</h1>
+          <h1>Gráficos Exemplo página</h1>
         </div>
-        
-        <form>
-        Nome<br />
-        <input type="text" name="name">
-        <br />
-        <br />
-        Email<br />
-        <input type="text" name="email">
-        <br />
-        <br />
-        Mensagem<br />
-        <input type="textarea" name="mensagem">
-        <br />
+        <p class="lead">Pin a fixed-height footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code>padding-top: 60px;</code> on the <code>body > .container</code>.</p>
+        <p>Back to <a href="../sticky-footer">the default sticky footer</a> minus the navbar.</p>
 
-        </form>
+
+
+
       
 
 
       <!-- FOOTER -->
-      <?php
-        require('componentes/footer.php');
-        ?>
+      <footer>
+        <p class="pull-right"><a href="#">Back to top</a></p>
+        <p>&copy; 2014 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+      </footer>
 
     </div><!-- /.container -->
 
