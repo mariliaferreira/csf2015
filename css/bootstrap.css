@@ -270,6 +270,17 @@ th {
 }
 
 
+
+a{
+  color: white;
+}
+
+nav a{
+  color: white;
+}
+
+
+
 .glyphicon {
   position: relative;
   top: 1px;

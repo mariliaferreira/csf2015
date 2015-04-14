@@ -7,7 +7,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="index.php">Ciência sem Fronteiras - PUCPR</a>
+              <a class="navbar-brand" href="index.php" class="teste-ajuda-deus">Ciência sem Fronteiras - PUCPR</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
