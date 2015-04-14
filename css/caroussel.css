@@ -481,3 +481,15 @@ body {
   -webkit-transition: all .1s ease-in;
   transition: all .1s ease-in;
 }
+
+
+.path {
+  stroke-dasharray: 100;
+  animation: dash 5s linear;
+}
+
+@-webkit-keyframes dash {
+  to {
+    stroke-dashoffset: 1000;
+  }
+}

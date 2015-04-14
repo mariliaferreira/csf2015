@@ -50,12 +50,12 @@
           <div class="tabs tabs-style-iconbox">
             <nav>
               <ul>
-                <li><a href="#section-iconbox-1"><span>América do Norte</span></a></li>
-                <li><a href="#section-iconbox-2"><span>América do Sul</span></a></li>
-                <li><a href="#section-iconbox-3"><span>Ásia</span></a></li>
-                <li><a href="#section-iconbox-4"><span>Europa</span></a></li>
-                <li><a href="#section-iconbox-5"><span>África</span></a></li>
-                <li><a href="#section-iconbox-5"><span>Oceania</span></a></li>
+                
+                <li><a href="#section-iconbox-5"><button>América do Norte</button></a></li>
+                <li><a href="#section-iconbox-5"><button>Ásia</button></a></li>
+                <li><a href="#section-iconbox-5"><button>Europa</button></a></li>
+                <li><a href="#section-iconbox-5"><button>África</button></a></li>
+                <li><a href="#section-iconbox-5"><button>Oceania</button></a></li>                
 
               </ul>
             </nav>

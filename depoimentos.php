@@ -82,6 +82,17 @@
 
         </div>
 
+
+        <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
+             <img src="img/depoimentos-fotos/depoimento-eloisa.jpg" class="foto-depoimento borda-img-2014"/>
+             <h3>Eloisa Fraga Canziani</h3>
+             <h4>Estados Unidos, Kent - Kent State University</h4>
+             <span  class="botao-curso-depoimento">Biotecnologia</span>
+             <p>"Fazer um intercâmbio sempre foi meu sonho! E posso dizer que minha experiência nos Estados Unidos foi a cima das expectativas!! Fiz parte de grupos de pesquisa na minha área, fiz matérias as quais eu provavelmente não teria acesso na graduação no Brasil, consegui fazer o estágio de verão em um laboratório dentro da universidade Kent State. Além disso tudo pude também entrar em contato com diferentes culturas, e não apenas a americana. Somado a todos os eventos acadêmicos em que participei (Simpósios, Congresso Internacional, etc), tive a oportunidade de fazer passeios com a própria universidade, tais como: viagens e esquiar. Além de ter tido uma Host Family, a qual me ajudou a entender um pouco mais da cultura local. Com certeza foi uma oportunidade única!!! E se eu pudesse, faria de novo!"</p>
+            </div>
+
+
+
          <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
              <img src="img/depoimentos-fotos/depoimento-fernanda-polli.jpg" class="foto-depoimento borda-img-2014"/>
              <h3>Fernanda Polli</h3>
@@ -119,6 +130,21 @@
              <span  class="botao-curso-depoimento">Ciências Biológicas</span>
              <p>"O intercâmbio que realizei pelo CsF foi, sem dúvida, a experiência mais importante da minha vida acadêmica e profissional. Não apenas pela oportunidade da vivência no exterior mas principalmente, por realizar o curso de língua estrangeira e poder cursar a universidade completamente inserida em uma cultura muito diferente. Ao todo, estive por 18 meses na Austrália, vivendo em Sydney, e pude conhecer pessoas das mais variadas etnias, o que contribuiu de forma imensurável em toda a experiência.  "</p>
             </div>
+
+
+
+             <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
+             <img src="img/depoimentos-fotos/depoimento-marcela.jpg" class="foto-depoimento borda-img-2014"/>
+             <h3>Marcela Kondo Sato</h3>
+             <h4>Australia, Newcastle - University of Newcastle</h4>
+             <span  class="botao-curso-depoimento">Medicina</span>
+             <p>"Com certeza faria outro intercambio. 
+                A experiencia no exterior foi muito valida. No Brasil moro com meus pais, entao a experiencia de morar sozinha e ter novas responsabilidades foi muito interessante. No meu caso, convivi com muitos brasileiros em Newcastle, pois meu edital tinha em torno de 100 brasileiros. Isso teve muitos pontos positivos e alguns negativos tambem. No inicio principalmente, ter brasileiros sempre eh bom e facilita muito a adaptacao, porem tambem eh valido fazer amigos estrangeiros para conviver com culturas e habitos diferentes, alem do melhor aperfeicoamento na lingua. Nesse ponto, enquanto estava no exterior considerava que meu ingles nao tinha melhorado muito, porem apos fazer o IELTS e retornar ao Brasil senti uma diferenca positiva. Agora, tenho uma facilidade muito maior para leitura de artigos internacionais e nao ha mais o receio em relacao ao ingles. Fiz alguns amigos na AU, mas vejo que eh bem dificil manter contato, por outro lado, os brasileiros que conheci por la, ainda nos falamos bastante e ja planejamos viagens futuras; inclusive conheci estudantes de medicina da PUC que nunca tinha conversado no Brasil e nos tornamos amigas na AU. 
+                Em relacao ao programa, acho que eh uma otima oportunidade para entrar em contato com outra cultura e totalmente acessivel a todos os estudantes. Porem, em relacao a medicina poderia ter tido um melhor aproveitamento, pois em termos academicos, tinha mais expectativas. 
+                Escuto muitos de meus colegas argumentando que nao fariam um intercambio pois nao querem atrasar um ano da faculdade, porem eu nao me arrependo de ter "atrasado" um ano e meio na faculdade. Alem da oportunidade de conhecer novos lugares, novas pessoas e fazer novos amigos, as experiencias que tive no exterior serao inesqueciveis e com certeza contribuiram muito para minha formacao, pois um profissional nao eh um tecnico mas sim uma combinacao de todos os seus conhecimentos pessoais e claro, os academicos.
+                "</p>
+            </div>
+
 
 
             <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
@@ -170,6 +196,30 @@ Além do lugar em que vivi pude viajar dentro do país conhecendo praias e cidad
 Vivi a experiência de morar sozinha em um apartamento de estudante, com direito a toda independência que qualquer jovem sonha em ter.
 Acredito ter aprendido muito durante meu ano no exterior e mesmo se pudesse não mudaria absolutamente nada, aprendi com minhas dificuldades e cresci com meus erros."</p>
             </div>
+
+
+             <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
+             <img src="img/depoimentos-fotos/depoimento-paulo-rizzardi.jpg" class="foto-depoimento borda-img-2014"/>
+             <h3>Paulo Victor Arigoni Rizzardi </h3>
+             <h4>Austrália, Melbourne - University of Melbourne</h4>
+             <span  class="botao-curso-depoimento">Engenharia de Produção</span>
+             <p>"A experiência do intercâmbio foi única. Tive a oportunidade não só de morar em uma das melhores cidades do mundo, mas também de viajar e conhecer toda a Austrália. Durante nossa atividade de estágio, desenvolvemos um projeto com a ONG Green Cross Austrália, ajudando a <a href="http://www.greencrossaustralia.org/latest-news/news-archive/2014/brazilian-stem-students-take-on-melbourne-witness-king-tides.aspx" target="_blank">mapear e avaliar os riscos do aumento do nível do mar na costa da Austrália</a>. O projeto se tornou bem maior do que imaginávamos, e acabou envolvendo até mesmo os departamentos de sustentabilidade da prefeitura de Melbourne e Port Phillip."</p>
+            </div>
+
+
+             <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
+             <img src="img/depoimentos-fotos/depoimento-pedro.jpg" class="foto-depoimento borda-img-2014"/>
+             <h3>Pedro Henrique dos Santos Sbais</h3>
+             <h4>Alemanha, Deggendorf - Technische Hochschule Deggendorf</h4>
+             <span  class="botao-curso-depoimento">Engenharia de Controle e Automação</span>
+             <p>"Durante meu tempo de intercâmbio pelo Ciências Sem Fronteiras, morei em duas cidades diferentes na Alemanha, pois o meu edital contemplava o curso de línguas de 6 meses e mais um ano de faculdade. A primeira cidade onde vivenciei o meu primeiro contato com o exterior foi a cidade de Marburg, estado de Hessen, localizada no centro da Alemanha, próximo a Frankfurt. Um cidade incrivelmente lúdica, marcada pela passagem dos Irmãos Grimm, que lá moraram e rechearam a cidade de esculturas e monumentos que lembram seus contos e fabulas. Além do cartão de visitas da cidade: O Castelo de Marburg. Com vista do alto da montanha é possível aprecia-lo de todos os pontos - basta olhar para cima - além da sua iluminação noturna que enaltece a magia da população de pouco mais de 80 mil habitantes. Lá estudei na Escola de Línguas Speak and Write, com profissionais extremamente competentes e atenciosos, consegui no período de 6 meses avançar do nível A1 para o B2, com certificação TELC, o que me credenciaria para a ingressão na faculdade. 
+            Até que fui selecionado então para estudar na Technische Hochschule Deggendorf ( Universidade de Ciências Aplicadas de Deggendorf) como o próprio nome indica, na cidade de Deggendorf, estado da Bavaria, sul do país. Cidade Universitária de aproximadamente 40 mil habitantes, Deggendorf não contemplava cenários medievais como Marburg, mas era o retrato da cultura Bavára, com suas especiarias, costumes e dialetos que tanto nos impressionava, além da riqueza natural provinda do Rio Danúbio - Die Donau em alemão -  o segundo maior rio da Europa e a Bayerischer Wald - Florestas Bavára - repleta de animais  específicos da região que são por vezes exóticos para nós provindos de outro continente. 
+            Ambiente propício para se viver com qualidade de vida e desenvolver a vida acadêmica, a THD (termo comumente utilizado lá para se referir á Universidade - é a sigla do nome em alemão), é uma universidade relativamente nova, mas que já é referência em muitos campos do conhecimento. Os cursos ofertados são em sua maioria de Engenharia e Exatas, mas também existem cursos de Turismo e Comercio Exterior, que recebem normalmente o maior numero de alunos estrangeiros na faculdade. A Universidade oferece uma infra-estrutura de qualidade, com salas equipadas com recursos multimídias de ultima geração para auxilio dos professores e alunos. Lembrando que as faculdades alemãs, em 90% de seu contingente, são estritamente públicas, sem custo algum por parte do aluno, e oferecem um excelente ensino, com professores renomados e experientes. Contudo, nem tudo são flores, como todos sabemos, os alemães carregam a fama de serem reservados e fechados e quando se trata de estudo então, não se pode esperar muito "trato" da parte deles para com o próximo, pois se dedicam seriamente e são da política do "não sabe, faço eu", sem tempo para desculpas, tomam a responsabilidade e resolvem o problema, sem perder o respeito é claro. Mas isso só no que se diz respeito a situações de trabalho ou estudo, no restante, são totalmente receptivos e prontos a uma boa conversa, reunião ou festa. Digo isso pois morei numa republica com 2 alemães, sendo eu o único brasileiro. 
+            Enfim a THD foi um ótima escolha para desenvolver o campo acadêmico, com dedicação é possível realizar os trabalhos e provas na língua alemã. 
+            Portanto para mim, como experiência de vida e acadêmica, foi uma experiência ímpar, tive contato direto e indireto em 1,5 anos com aproximadamente 500 novas pessoas, entre brasileiros e estrangeiros, que me permitiram aprender novas culturas e 
+            a reaprender a cultura brasileira, que é imensa e surpreendente. Então, recomendo o programa sem sobra de dúvidas, de preferência para alunos com mais da metade do curso já completo no Brasil, para que tenham um maior aproveitamento acadêmico das áreas do conhecimento mais específicos de seu curso, que é o diferencial ensinado no exterior."</p>
+            </div>
+
 
 
             <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
@@ -253,6 +303,16 @@ Acredito ter aprendido muito durante meu ano no exterior e mesmo se pudesse não
 
 
             <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
+             <img src="img/depoimentos-fotos/depoimento-julia.jpg" class="foto-depoimento borda-img-2013"/>
+             <h3>Julia Irene Rosales</h3>
+             <h4>Italia, Milano - Politecnico di Milano</h4>
+             <span  class="botao-curso-depoimento-2013">Arquitetura e Urbanismo</span>
+             <p>"Como morava em uma das residencias da universidade, tive a oportunidade de conhecer outras culturas e costumes, além de aperfeiçoar meu italiano, mas em certo ponto senti necessidade de aprender inglês por conta própria pois muitos que moravam lá eram asiáticos e africanos. No inicio estudava em sites gratuitos ,mas que não eram suficientes, então passei a usar o Google Tradutor no celular para me comunicar.Pois independente de não saber falar, entendia o  que era falado. Naquela época falava com uma italiana muçulmana que era colega de quarto de uma indiana. E assim comecei a praticar meu inglês básico, em certa altura parei de traduzir pois algumas frases se repetiam bastante e acabei ficando muito amiga da indiana. Fui apresentada para outros moradores que eram amigos da indiana, e passamos a ter um laço de amizade. Perto de retornar ao Brasil, era época do Ramadã, foi o melhor período do intercambio, como grande parte dos amigos eram muçulmanos, é como manda a religião eles comiam e bebiam desde do pôr do sol ao nascer do sol, foram incontáveis os dias que íamos dormir as 7 da manhã, virávamos a madrugada jogando, conversando,eles bebendo garrafas de água e comendo bastante. 
+Com certeza faria novamente intercambio.Deixo essa nova oportunidade para minha futura especialização."</p>
+            </div>
+
+
+            <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
              <img src="img/depoimentos-fotos/depoimento-luis-abib.jpg" class="foto-depoimento borda-img-2013"/>
              <h3>Luis Eduardo Abib</h3>
              <h4>Finlândia, Lappeenranta - Lappeenranta University of Technology</h4>
@@ -261,8 +321,20 @@ Acredito ter aprendido muito durante meu ano no exterior e mesmo se pudesse não
             </div>
 
 
+
             <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
-             <img src="img/depoimentos-fotos/depoimento-renata-bayer.jpg" class="foto-depoimento borda-img-2013"/>
+             <img src="img/depoimentos-fotos/depoimento-luiz-greca.jpg" class="foto-depoimento borda-img-2013"/>
+             <h3>Luiz Guilherme Garcia Greca</h3>
+             <h4>Finlândia, Helsinque - Aalto University</h4>
+             <span  class="botao-curso-depoimento-2013">Engenharia Mecânica</span>
+             <p>"Meu intercâmbio na Aalto University em Helsinque, Finlândia, foi repleto de experiências incríveis. A convivência com pessoas de diferentes nacionalidades e culturas, a possibilidade de fazer cursos em diversas áreas dentro da engenharia e as visitas técnicas foram fatores que me trouxeram grande aprendizado, lembranças e amigos que levarei para toda a vida. Dentre os momentos mais marcantes, não há como não lembrar a excursão em que passei a noite acompanhando as operações na ponte de comando de um navio quebra gelo. Também, quando visitamos um navio de cruzeiros em construção e apresentamos um trabalho no estaleiro responsável pelo Allure e Oasis of the Seas, os dois maiores navios de cruzeiros do mundo. Representar a universidade com mais dois amigos em uma competição de sustentabilidade na Universidade Técnica da Dinamarca foi igualmente marcante. Nesta ocasião, ainda pude escolher um curso na área da engenharia mecânica, oferecido nas três semanas que antecederam a competição. Lá pudemos ter uma ideia da vida local e de mais um ambiente universitário diferenciado. Essas experiências, aliadas à organização, cultura e valores do povo Finlandês, fizeram meu intercâmbio inesquecível."</p>
+            </div>
+
+
+
+
+            <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
+             <img src="img/depoimentos-fotos/depoimento-marilia.jpg" class="foto-depoimento borda-img-2013"/>
              <h3>Marilia Antunes Ferreira</h3>
              <h4>Reino Unido, Dundee - University of Dundee</h4>
              <span  class="botao-curso-depoimento-2013">Design Digital</span>
@@ -292,6 +364,15 @@ O CsF, sem dúvidas, além de abrir portas (acadêmica, profissional e culturalm
              <h4>Reino Unido, Dundee - University of Dundee</h4>
              <span  class="botao-curso-depoimento-2013">Medicina</span>
              <p>"Como estudante de medicina, a experiência no Reino Unido - onde existe um sistema de saúde público maravilho - foi inigualável. Durante um ano pude conviver com médicos, participar de cirurgias, do dia a dia na escola de medicina e conhecer a realidade de um sistema que atende muito bem à população. Além da experiência prática, toda a experiência acadêmica foi muito gratificante. Lá, escrevi e defendi minha primeira tese na área médica, aprendi muito sobre ortopedia (área do curso que fiz) e até sobre o próprio processo de estudar. A Universidade de Dundee se mostrou muito acolhedora em todos os momentos e a cidade acabou por virar um segundo lar, do qual sinto muita falta.  Claro que conhecer um pouco mais da Europa(era minha segunda vez no continente) foi muito legal, mas ter a chance de morar em uma pequena cidade, num país não tão popular fez toda a diferença. Acho que é impossível viver na Escócia por um período e não voltar um pouco escocês - como prova a bandeira que eu tenho pendura na sala desde a minha volta.  Por fim, posso dizer que é uma experiência que muda sua vida, desde poder representar a universidade, como fiz recentemente na feira do consulado britânico, até manter contato com meu orientador de lá, que em conversar por skype me ajudar planejar  meu futuro acadêmico."</p>
+            </div>
+
+
+            <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
+             <img src="img/depoimentos-fotos/depoimento-valquiria.jpg" class="foto-depoimento borda-img-2013"/>
+             <h3>Valquiria Jablinski</h3>
+             <h4>Reino Unido, Edimburgo - Heriot Watt University</h4>
+             <span  class="botao-curso-depoimento-2013">Engenharia Civil</span>
+             <p>"A Escócia é um país cheio de história e cultura. Para mim essa é a parte que mais marcou meu intercâmbio. Os Escoses tem uma bagagem cultural sensacional. Desde tours fantasmas até degustar um single malt com vista para o castelo de Edimburgo. As minhas melhores memórias incluem um passeio até o Lago Ness, pegar carona para a cidade de St. Andrews, dirigir um carro com o volante do lado errado, conhecer as Highlands e a Ilha de Skye, aprender sobre a história escocesa e comer haggis (comida típica escocesa. Eles cozinham todos os órgão da ovelha dentro do estômago dela. Amassam e colocam várias especiarias. Até que é bem saboroso). Além disso tive outras experiências que vou lembrar para sempre. Conheci vários países, fiz amigos do mundo inteiro, fui em vários peças de teatro e me perdi diversas vezes em quase todas as cidades que eu fui :D Uma das minhas memórias mais marcantes foi em uma viagem minha pela Europa continental. Eu estava viajando de Praga para Cracóvia. No meio do caminho eu precisava trocar de trem, mas sem querer eu me distraí acabei não descendo do trem na estação certa. Eu desci em uma estação quase deserta. Eu não sabia ao certo se eu ainda estava na Republica Tcheca ou se eu já estava na Polônia. A moça do caixa não falava quase nada de inglês e ela me vendeu uma passagem que voltava para a estação que eu precisava ir. O único problema era que o trem saía dali 5 minutos. EU saí correndo, e só na metade do caminho que eu me toquei que não sabia para onde eu estava correndo. Perguntei para o único homem que eu vi e ele olhou meu ticket e me indicou o caminho certo. Saí correndo de novo, tropecei na escada, me ralei inteira. Mas consegui chegar a tempo e entrei num trem suuuper antigo. Parecia meio comunista. Dali foi tudo mais tranquilo, mas o frio na barriga volta só de lembrar que eu quase fiquei perdida numa cidadezinha sabe Deus em que país."</p>
             </div>
 
 
