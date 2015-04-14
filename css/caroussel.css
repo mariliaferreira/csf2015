@@ -516,3 +516,15 @@ body {
 .teste-ajuda-deus a{
   color: white;
 }
+
+.oquee{
+  font-size: 1.4em;
+  width: 60%;
+  line-height: 170%;
+  padding-bottom: 40px;
+  letter-spacing: -1;
+}
+
+.indicadores-paragrafo{
+  font-size: 1.2em;
+}

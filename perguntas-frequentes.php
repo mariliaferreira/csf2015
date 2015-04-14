@@ -35,7 +35,7 @@
 
 
         <div class="page-header">
-          <h1>Sobre o Programa Ciência sem Fronteiras</h1>
+          <h1>Perguntas Frequentes</h1>
         </div>
         
         <h3>Como faço para me inscrever no programa?</h3>

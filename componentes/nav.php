@@ -11,7 +11,7 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="index.php">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li class="dropdown">
                   <a href="sobre-programa.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Sobre o Programa <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
@@ -26,7 +26,7 @@
                 </li>
                 <li><a href="indicadores.php">Indicadores</a></li>
                 <li><a href="depoimentos.php">Depoimentos</a></li>
-                <li><a href="inscricoes.php">Inscrições</a></li>
+                <!-- <li><a href="inscricoes.php">Inscrições</a></li> -->
                 <!-- <li><a href="#contact">Acesso aos Bolsistas</a></li> -->
                 <li><a href="perguntas-frequentes.php">Perguntas Frequentes</a></li>
                 <li><a href="contato.php">Contato</a></li>
