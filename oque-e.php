@@ -35,7 +35,7 @@
 
 
         <div class="page-header">
-          <h1>Inscrições</h1>
+          <h1>O que é?</h1>
         </div>
         <p class="lead">Pin a fixed-height footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code>padding-top: 60px;</code> on the <code>body > .container</code>.</p>
         <p>Back to <a href="../sticky-footer">the default sticky footer</a> minus the navbar.</p>
@@ -47,10 +47,9 @@
 
 
       <!-- FOOTER -->
-      <footer>
-        <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2014 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
-      </footer>
+      <?php
+        require('componentes/footer.php');
+        ?>
 
     </div><!-- /.container -->
 
