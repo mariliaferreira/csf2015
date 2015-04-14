@@ -52,6 +52,11 @@
 	border: none;
 	background-color: #fff;
 	font-size: 1.2em;
+	width: 200px;
+	-moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
 }
 
 .tabs-style-iconbox button:focus{
@@ -61,10 +66,19 @@
 .tabs-style-iconbox nav ul li a {
 	overflow: visible;
 	padding: 2em 0;
-	line-height: 1;
+	line-height: 1; 
 	-webkit-transition: color 0.2s;
 	transition: color 0.2s;
 	color: #B21120;
+	text-decoration: none;
+	-moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+}
+
+.tabs-style-iconbox nav ul li a:hover {
+	text-decoration: none;
 }
 
 .tabs-style-iconbox nav ul li a span {
@@ -79,6 +93,7 @@
 .tabs-style-iconbox nav ul li.tab-current button{
 	background-color: rgba(224, 224, 224, 0.1);
 	font-weight: 600;
+
 }
 
 .tabs-style-iconbox nav ul li.tab-current a {
