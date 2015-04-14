@@ -10,6 +10,9 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/caroussel.css" rel="stylesheet">
     <link href="css/font-stylesheet.css" rel="stylesheet">
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    
 
 
     <script src="js/bootstrap.js"></script>
@@ -44,7 +47,8 @@
 
           <a href="mapa-csf-pucpr.php">
             <div class="botao-1">
-              <span>Bolsas CsF - Mapa</span>
+
+              <span><i class="fa fa-map-marker"></i> Mapa dos bolsistas CsF</span>
             </div>
           </a>
 

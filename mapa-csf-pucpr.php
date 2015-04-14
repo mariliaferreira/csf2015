@@ -39,7 +39,7 @@
 
 
         <div class="page-header">
-          <h1>Mapa</h1>
+          <h1>Mapa dos bolsistas Ciência sem Fronteiras</h1>
         </div>
 
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -50,13 +50,12 @@
           <div class="tabs tabs-style-iconbox">
             <nav>
               <ul>
-                
-                <li><a href="#section-iconbox-5"><button>América do Norte</button></a></li>
-                <li><a href="#section-iconbox-5"><button>Ásia</button></a></li>
-                <li><a href="#section-iconbox-5"><button>Europa</button></a></li>
+                <li><a href="#section-iconbox-1"><button>Todos</button></a></li>
+                <li><a href="#section-iconbox-2"><button>América do Norte</button></a></li>
+                <li><a href="#section-iconbox-3"><button>Ásia</button></a></li>
+                <li><a href="#section-iconbox-4"><button>Europa</button></a></li>
                 <li><a href="#section-iconbox-5"><button>África</button></a></li>
-                <li><a href="#section-iconbox-5"><button>Oceania</button></a></li>                
-
+                <li><a href="#section-iconbox-6"><button>Oceania</button></a></li> 
               </ul>
             </nav>
             <div class="content-wrap">
