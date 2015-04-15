@@ -7,7 +7,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="index.php" class="teste-ajuda-deus">CiÃªncia sem Fronteiras - PUCPR</a>
+              <a class="navbar-brand" href="index.php" class="teste-ajuda-deus">Ciência sem Fronteiras - PUCPR</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
@@ -15,7 +15,7 @@
                 <li class="dropdown">
                   <a href="sobre-programa.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Sobre o Programa <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
-                    <li><a href="oque-e.php">O que Ã©?</a></li>
+                    <li><a href="oque-e.php">O que é?</a></li>
                     <li><a href="editais.php">Editais</a></li>
                     <!-- <li><a href="#">Something else here</a></li> -->
                     <!-- <li class="divider"></li>
@@ -26,7 +26,7 @@
                 </li>
                 <li><a href="indicadores.php">Indicadores</a></li>
                 <li><a href="depoimentos.php">Depoimentos</a></li>
-                <!-- <li><a href="inscricoes.php">InscriÃ§Ãµes</a></li> -->
+                <!-- <li><a href="inscricoes.php">Inscrições</a></li> -->
                 <!-- <li><a href="#contact">Acesso aos Bolsistas</a></li> -->
                 <li><a href="perguntas-frequentes.php">Perguntas Frequentes</a></li>
                 <li><a href="contato.php">Contato</a></li>
