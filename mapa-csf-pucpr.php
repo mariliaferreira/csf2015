@@ -48,7 +48,7 @@
 
         </div>
         
-
+<!--
         <section>
           <div class="tabs tabs-style-iconbox">
             <nav>
@@ -61,6 +61,7 @@
                 <li><button><a href="#section-iconbox-6">Oceania</a></button></li>
               </ul>
             </nav>
+            
             <div class="content-wrap">
               <section id="section-iconbox-1">
                 <p>1</p>
@@ -70,13 +71,13 @@
               <section id="section-iconbox-4"><p>4</p></section>
               <section id="section-iconbox-5"><p>5</p></section>
               <section id="section-iconbox-6"><p>6</p></section>
-            </div><!-- /content -->
-          </div><!-- /tabs -->
+            </div>
+          </div>
       </section>
-
-
-      
-
+-->
+      <?php
+        require("index_students.php");
+      ?>
 
       <!-- FOOTER -->
       <?php
