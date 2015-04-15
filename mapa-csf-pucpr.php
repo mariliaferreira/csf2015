@@ -1,6 +1,33 @@
-<?php
-require("cab.php");
-?>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Ciências sem Fronteiras</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/caroussel.css" rel="stylesheet">
+    <link href="css/font-stylesheet.css" rel="stylesheet">
+
+    
+    <link rel="stylesheet" type="text/css" href="css/tabs.css" />
+    <link rel="stylesheet" type="text/css" href="css/tabstyles.css" />
+
+    <script src="js/modernizr.custom.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/npm.js"></script>
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
   <body>
     <div class="navbar-wrapper">
       <div class="container">
@@ -21,20 +48,48 @@ require("cab.php");
 
         </div>
         
-<!--
+
         <section>
           <div class="tabs tabs-style-iconbox">
-            <nav>
-              <ul>
-                <li><button><a href="#section-iconbox-1">Todos</a></button></li>
-                <li><button><a href="#section-iconbox-2">América do Norte</a></button></li>
-                <li><button><a href="#section-iconbox-3">Ásia</a></button></li>
-                <li><button><a href="#section-iconbox-4">Europa</a></button></li>
-                <li><button><a href="#section-iconbox-5">África</a></button></li>
-                <li><button><a href="#section-iconbox-6">Oceania</a></button></li>
-              </ul>
-            </nav>
+
+                    <nav>
+                      <ul>
+                        <li>
+                          <a href="#section-iconbox-1">
+                            <input type=submit name=botao1  value=Todos style="background-color: none;"></input>
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href="#section-iconbox-1">
+                            <input type=submit name=botao1  value=Todos></input>
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href="#section-iconbox-1">
+                            <input type=submit name=botao1  value=Todos></input>
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href="#section-iconbox-1">
+                            <input type=submit name=botao1  value=Todos></input>
+                          </a>
+                        </li> 
+
+                        <li>
+                          <a href="#section-iconbox-1">
+                            <input type=submit name=botao1  value=Todos></input>
+                          </a>
+                        </li>                     
+                      </ul>
+                    </nav>
+
+         
             
+
+
             <div class="content-wrap">
               <section id="section-iconbox-1">
                 <p>1</p>
@@ -44,13 +99,13 @@ require("cab.php");
               <section id="section-iconbox-4"><p>4</p></section>
               <section id="section-iconbox-5"><p>5</p></section>
               <section id="section-iconbox-6"><p>6</p></section>
-            </div>
-          </div>
+            </div><!-- /content -->
+          </div><!-- /tabs -->
       </section>
--->
-      <?php
-        require("index_students.php");
-      ?>
+
+
+      
+
 
       <!-- FOOTER -->
       <?php
@@ -76,15 +131,10 @@ require("cab.php");
     <script src="js/cbpFWTabs.js"></script>
     <script>
       (function() {
-
         [].slice.call( document.querySelectorAll( '.tabs' ) ).forEach( function( el ) {
           new CBPFWTabs( el );
         });
-
       })();
     </script>
   </body>
 </html>
-
-
-  
