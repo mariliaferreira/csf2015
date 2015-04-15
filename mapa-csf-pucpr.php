@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Ci√™ncias sem Fronteiras</title>
+    <title>CiÍncias sem Fronteiras</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -39,7 +39,7 @@
 
 
         <div class="page-header">
-          <h1>Mapa dos bolsistas Ci√™ncia sem Fronteiras</h1>
+          <h1>Mapa dos bolsistas CiÍncia sem Fronteiras</h1>
         </div>
 
         <div class="indicadores-paragrafo">
@@ -54,10 +54,10 @@
             <nav>
               <ul>
                 <li><button><a href="#section-iconbox-1">Todos</a></button></li>
-                <li><button><a href="#section-iconbox-2">Am√©rica do Norte</a></button></li>
-                <li><button><a href="#section-iconbox-3">√Åsia</a></button></li>
+                <li><button><a href="#section-iconbox-2">AmÈrica do Norte</a></button></li>
+                <li><button><a href="#section-iconbox-3">¡sia</a></button></li>
                 <li><button><a href="#section-iconbox-4">Europa</a></button></li>
-                <li><button><a href="#section-iconbox-5">√Åfrica</a></button></li>
+                <li><button><a href="#section-iconbox-5">¡frica</a></button></li>
                 <li><button><a href="#section-iconbox-6">Oceania</a></button></li>
               </ul>
             </nav>

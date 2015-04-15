@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>CiÃªncias sem Fronteiras</title>
+    <title>Ciências sem Fronteiras</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -35,7 +35,7 @@
 
 
         <div class="page-header">
-          <h1>GrÃ¡ficos Exemplo pÃ¡gina</h1>
+          <h1>Gráficos Exemplo página</h1>
         </div>
         <p class="lead">Pin a fixed-height footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code>padding-top: 60px;</code> on the <code>body > .container</code>.</p>
         <p>Back to <a href="../sticky-footer">the default sticky footer</a> minus the navbar.</p>

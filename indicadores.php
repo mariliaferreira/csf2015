@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>CiÃªncias sem Fronteiras</title>
+    <title>Ciências sem Fronteiras</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -38,7 +38,7 @@
 
 
         <div class="page-header">
-          <h1>Indicadores CiÃªncia sem Fronteiras na PUCPR</h1>
+          <h1>Indicadores Ciência sem Fronteiras na PUCPR</h1>
         </div>
 
         <div class="indicadores-paragrafo">
@@ -58,13 +58,13 @@
 
           <a href="pagina-grafico.php">
             <div class="botao-1">
-              <span>Bolsas por paÃ­s</span>
+              <span>Bolsas por país</span>
             </div>
           </a>
 
           <a href="pagina-grafico-1.php">
             <div class="botao-2">
-              <span>Alunos CsF/PUCPR por Ã¡reas</span>
+              <span>Alunos CsF/PUCPR por áreas</span>
             </div>
           </a>
 
@@ -76,19 +76,19 @@
 
           <a href="pagina-grafico-3.php">
             <div class="botao-4">
-              <span>Bolsas por formaÃ§Ã£o</span>
+              <span>Bolsas por formação</span>
             </div>
           </a>
 
           <a href="pagina-grafico-4.php">
             <div class="botao-5">
-              <span>Bolsas por gÃªnero</span>
+              <span>Bolsas por gênero</span>
             </div>
           </a>
 
           <a href="pagina-grafico-5.php">
             <div class="botao-6">
-              <span>Perfil dos estudantes de IntercÃ¢mbio</span>
+              <span>Perfil dos estudantes de Intercâmbio</span>
             </div>
           </a>
 

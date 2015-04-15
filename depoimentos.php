@@ -338,8 +338,11 @@ Com certeza faria novamente intercambio.Deixo essa nova oportunidade para minha 
              <h3>Marilia Antunes Ferreira</h3>
              <h4>Reino Unido, Dundee - University of Dundee</h4>
              <span  class="botao-curso-depoimento-2013">Design Digital</span>
-             <p>"O Ciência sem Fronteiras me proporcionou oportunidades pelas quais me considero uma pessoa de sorte. Morei por um ano na cidade de Dundee, na Escócia (Reino Unido). Quando cheguei lá, rapidamente tive a sensação de estar em casa, pois tive sorte de conhecer pessoas muito queridas (colegas brasileiros e escoceses). Estar perto de Londres também foi uma grande vantagem, pois tive a oportunidade de conhecer o escritório do Mozilla e o escritório da Adobe - oportunidade que todo designer adoraria ter. Nos últimos meses tive a enorme chance de trabalhar em um projeto de pesquisa com um professor da universidade que foi diretor da IDEO de Londres. Todas essas experiências me completaram e me inspiraram a seguir adiante, e a ter certeza que fiz a escolha certa na minha carreira."</p>
+             <p>"O programa Ciência sem Fronteiras me proporcionou oportunidades pelas quais me considero uma pessoa de sorte. Morei um ano na cidade de Dundee, na Escócia (Reino Unido). Quando cheguei lá, rapidamente tive a sensação de estar em casa, pois tive sorte de conhecer pessoas muito queridas (colegas brasileiros e escoceses). Estar perto de Londres também foi uma grande vantagem, pois tive a oportunidade de conhecer o escritório do Mozilla e o escritório da Adobe - oportunidade que todo aluno de design adoraria ter. Nos últimos meses tive a enorme chance de trabalhar em um projeto de pesquisa com um professor da universidade que foi diretor da IDEO de Londres. Todas essas experiências me completaram e me inspiraram a seguir adiante, e a ter certeza que fiz a escolha certa na minha carreira."</p>
             </div>
+
+
+            
 
             <div class="depoimento-pagina" data-sr="enter bottom, hustle 10px">
              <img src="img/depoimentos-fotos/depoimento-pery.jpg" class="foto-depoimento borda-img-2013"/>

@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>CiÃªncias sem Fronteiras</title>
+    <title>Ciências sem Fronteiras</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -38,77 +38,77 @@
           <h1>Perguntas Frequentes</h1>
         </div>
         
-        <h3>Como faÃ§o para me inscrever no programa?</h3>
-        <p>O aluno candidato deverÃ¡ inscrever - se no site do CiÃªncia Sem Fronteiras pelo seguinte link: http://www.cienciasemfronteiras.gov.br/web/csf DeverÃ¡ ser feita tambÃ©m a inscriÃ§Ã£o pelo site da PUCPR no link: http://www2.pucpr.br/reol/cienciasemfronteiras/ Ã‰ necessÃ¡ria a inscriÃ§Ã£o nesses dois momentos para que toda e qualquer informaÃ§Ã£o sobre a candidatura do aluno seja disponibilizada a coordenaÃ§Ã£o da IniciaÃ§Ã£o CientÃ­fica (PIBIC). Sendo assim, poderemos acompanhar o processo de inscriÃ§Ã£o e aprovaÃ§Ã£o de cada aluno para assim esclarecer qualquer dÃºvida que se faÃ§a necessÃ¡ria.</p>
+        <h3>Como faço para me inscrever no programa?</h3>
+        <p>O aluno candidato deverá inscrever - se no site do Ciência Sem Fronteiras pelo seguinte link: http://www.cienciasemfronteiras.gov.br/web/csf Deverá ser feita também a inscrição pelo site da PUCPR no link: http://www2.pucpr.br/reol/cienciasemfronteiras/ É necessária a inscrição nesses dois momentos para que toda e qualquer informação sobre a candidatura do aluno seja disponibilizada a coordenação da Iniciação Científica (PIBIC). Sendo assim, poderemos acompanhar o processo de inscrição e aprovação de cada aluno para assim esclarecer qualquer dúvida que se faça necessária.</p>
         <br />
 
-        <h3>Quem inscreve os candidatos? O coordenador responsÃ¡vel ou o prÃ³prio candidato?</h3>
-        <p>O coordenador Ã© responsÃ¡vel pela seleÃ§Ã£o dos candidatos e comunicaÃ§Ã£o aos mesmos do resultado da seleÃ§Ã£o. ApÃ³s isso, o candidato deverÃ¡ se inscrever na pÃ¡gina do programa da Capes e do IIE, preenchendo os formulÃ¡rios de inscriÃ§Ã£o e enviando as documentaÃ§Ãµes pertinentes.</p>
+        <h3>Quem inscreve os candidatos? O coordenador responsável ou o próprio candidato?</h3>
+        <p>O coordenador é responsável pela seleção dos candidatos e comunicação aos mesmos do resultado da seleção. Após isso, o candidato deverá se inscrever na página do programa da Capes e do IIE, preenchendo os formulários de inscrição e enviando as documentações pertinentes.</p>
         <br />
 
-        <h3>Como funciona a indicaÃ§Ã£o dos candidatos pela universidade brasileira?</h3>
-        <p>A universidade deve publicar amplamente a chamada pÃºblica que estabelece o programa e divulgar o respectivo mÃ©todo de seleÃ§Ã£o dos candidatos. Os aprovados no processo de seleÃ§Ã£o da IES deverÃ£o preencher o formulÃ¡rio da Capes, disponÃ­vel no site do programa e do IIE. ApÃ³s o preenchimento, no prazo estipulado pela Capes, o coordenador do programa deverÃ¡ homologar as inscriÃ§Ãµes dentro da lista de aprovados pela IES. Os candidatos homologados serÃ£o classificados pela Capes.</p>
+        <h3>Como funciona a indicação dos candidatos pela universidade brasileira?</h3>
+        <p>A universidade deve publicar amplamente a chamada pública que estabelece o programa e divulgar o respectivo método de seleção dos candidatos. Os aprovados no processo de seleção da IES deverão preencher o formulário da Capes, disponível no site do programa e do IIE. Após o preenchimento, no prazo estipulado pela Capes, o coordenador do programa deverá homologar as inscrições dentro da lista de aprovados pela IES. Os candidatos homologados serão classificados pela Capes.</p>
         <br />
 
-        <h3>O meu curso de graduaÃ§Ã£o se inclui dentro das Ã¡reas prioritÃ¡rias?</h3>
-        <p>A relaÃ§Ã£o das Ã¡reas consideradas prioritÃ¡rias no programa do CiÃªncia sem Fronteiras pode ser consultada no Portal do Programa.</p>
+        <h3>O meu curso de graduação se inclui dentro das áreas prioritárias?</h3>
+        <p>A relação das áreas consideradas prioritárias no programa do Ciência sem Fronteiras pode ser consultada no Portal do Programa.</p>
         <br />
 
-        <h3>HÃ¡ exigÃªncia de proficiÃªncia em lÃ­ngua estrangeira? Quais exames de proficiÃªncia em lÃ­ngua estrangeira serÃ£o aceitos?</h3>
-        <p>A exigÃªncia serÃ¡ feita conforme acordo realizado entre as agÃªncias (CNPq e CAPES) e a instituiÃ§Ã£o de ensino estrangeira. As instituiÃ§Ãµes de ensino superior brasileiras estÃ£o sendo estimuladas a oferecer cursos intensivos de lÃ­ngua estrangeira para os potenciais candidatos Ã  bolsa que tenham dificuldade no idioma utilizado na instituiÃ§Ã£o de destino. O ensino superior em alguns paÃ­ses como: Alemanha, China e CorÃ©ia, Ã© total ou parcialmente realizado em lÃ­ngua inglesa, possibilitando a candidatura de estudantes e pesquisadores com domÃ­nio de lÃ­ngua inglesa para esses paÃ­ses. A CAPES irÃ¡ oferecer cursos de inglÃªs Ã  distÃ¢ncia de alta qualidade para os estudantes brasileiros jÃ¡ aceitos no programa. O acesso a cursos de curta duraÃ§Ã£o tambÃ©m poderÃ¡ ser negociado, conforme a necessidade. No sentido de facilitar a vinda de estudantes e pesquisadores do exterior para o Brasil, as Embaixadas e Consulados brasileiros estudam a possibilidade de promover Cursos de PortuguÃªs no exterior. Grupos locais ajudarÃ£o na inserÃ§Ã£o de estrangeiros, facilitando a superaÃ§Ã£o da barreira do idioma nesses casos. Estudantes que nÃ£o alcanÃ§arem a nota mÃ­nima exigida nos testes de proficiÃªncia tambÃ©m poderÃ£o realizar cursos de idioma no exterior conforme avaliaÃ§Ã£o feita pela CAPES e CNPq.</p>
+        <h3>Há exigência de proficiência em língua estrangeira? Quais exames de proficiência em língua estrangeira serão aceitos?</h3>
+        <p>A exigência será feita conforme acordo realizado entre as agências (CNPq e CAPES) e a instituição de ensino estrangeira. As instituições de ensino superior brasileiras estão sendo estimuladas a oferecer cursos intensivos de língua estrangeira para os potenciais candidatos à bolsa que tenham dificuldade no idioma utilizado na instituição de destino. O ensino superior em alguns países como: Alemanha, China e Coréia, é total ou parcialmente realizado em língua inglesa, possibilitando a candidatura de estudantes e pesquisadores com domínio de língua inglesa para esses países. A CAPES irá oferecer cursos de inglês à distância de alta qualidade para os estudantes brasileiros já aceitos no programa. O acesso a cursos de curta duração também poderá ser negociado, conforme a necessidade. No sentido de facilitar a vinda de estudantes e pesquisadores do exterior para o Brasil, as Embaixadas e Consulados brasileiros estudam a possibilidade de promover Cursos de Português no exterior. Grupos locais ajudarão na inserção de estrangeiros, facilitando a superação da barreira do idioma nesses casos. Estudantes que não alcançarem a nota mínima exigida nos testes de proficiência também poderão realizar cursos de idioma no exterior conforme avaliação feita pela CAPES e CNPq.</p>
         <br />
 
-        <h3>Quais instituiÃ§Ãµes no exterior podem participar do programa?</h3>
-        <p>As instituiÃ§Ãµes de excelÃªncia no exterior estÃ£o firmando acordos com os repreentantes Educacionais de cada paÃ­s ou com o CNPq e a CAPES.</p>
+        <h3>Quais instituições no exterior podem participar do programa?</h3>
+        <p>As instituições de excelência no exterior estão firmando acordos com os repreentantes Educacionais de cada país ou com o CNPq e a CAPES.</p>
         <br />
 
-        <h3>Quais sÃ£o as Ã¡reas Ã¡reas prioritÃ¡rias que posso concorrer?</h3>
-        <p>Temas e Ã¡reas de interesse: Engenharias e demais Ã¡reas tecnolÃ³gicas; CiÃªncias Exatas e da Terra: FÃ­sica, QuÃ­mica, Biologia e GeociÃªncias, CiÃªncias BiomÃ©dicas e da SaÃºde; ComputaÃ§Ã£o e tecnologias da informaÃ§Ã£o; Tecnologia Aeroespacial; FÃ¡rmacos; ProduÃ§Ã£o AgrÃ­cola SustentÃ¡vel; PetrÃ³leo, GÃ¡s e CarvÃ£o Mineral; Energias RenovÃ¡veis; Tecnologia Mineral; Biotecnologia; Nanotecnologia e Novos materiais; Tecnologias de PrevenÃ§Ã£o e MitigaÃ§Ã£o de Desastres Naturais; Biodiversidade e BioprospecÃ§Ã£o; CiÃªncias do Mar; IndÃºstria criativa; Novas Tecnologias de Engenharia Construtiva; FormaÃ§Ã£o de TecnÃ³logos.</p>
+        <h3>Quais são as áreas áreas prioritárias que posso concorrer?</h3>
+        <p>Temas e áreas de interesse: Engenharias e demais áreas tecnológicas; Ciências Exatas e da Terra: Física, Química, Biologia e Geociências, Ciências Biomédicas e da Saúde; Computação e tecnologias da informação; Tecnologia Aeroespacial; Fármacos; Produção Agrícola Sustentável; Petróleo, Gás e Carvão Mineral; Energias Renováveis; Tecnologia Mineral; Biotecnologia; Nanotecnologia e Novos materiais; Tecnologias de Prevenção e Mitigação de Desastres Naturais; Biodiversidade e Bioprospecção; Ciências do Mar; Indústria criativa; Novas Tecnologias de Engenharia Construtiva; Formação de Tecnólogos.</p>
         <br />
 
-        <h3>Quem decide se o curso do candidato estÃ¡ dentro das Ã¡reas prioritÃ¡rias?</h3>
-        <p>A universidade brasileira analisa se o curso de graduaÃ§Ã£o do candidato estÃ¡ ou nÃ£o incluÃ­do entre as Ã¡reas prioritÃ¡rias.</p>
+        <h3>Quem decide se o curso do candidato está dentro das áreas prioritárias?</h3>
+        <p>A universidade brasileira analisa se o curso de graduação do candidato está ou não incluído entre as áreas prioritárias.</p>
         <br />
 
-        <h3>Os estudantes e pesquisadores beneficiados pelo programa sÃ³ poderÃ£o trabalhar dentro das Ã¡reas prioritÃ¡rias do CsF?</h3>
-        <p>Sim. Tanto estudantes como pesquisadores deverÃ£o seguir as Ã¡reas prioritÃ¡rias, constantes do Programa.</p>
+        <h3>Os estudantes e pesquisadores beneficiados pelo programa só poderão trabalhar dentro das áreas prioritárias do CsF?</h3>
+        <p>Sim. Tanto estudantes como pesquisadores deverão seguir as áreas prioritárias, constantes do Programa.</p>
         <br />
 
-        <h3>Ainda nÃ£o tenho o TOEFL. Posso enviar depois?</h3>
-        <p>Caso nÃ£o possua o teste com a pontuaÃ§Ã£o exigida, a Capes aceitarÃ¡ como documento o comprovante de inscriÃ§Ã£o para realizaÃ§Ã£o da prova, que deverÃ¡ ser anexado Ã  inscriÃ§Ã£o on-line no lugar do documento "teste de proficiÃªncia". O candidato deverÃ¡ apresentar o TOEFL com, no mÃ­nimo, 79 pontos ou 2. O candidato , caso ainda nÃ£o possua a pontuaÃ§Ã£o exigida pela Capes , poderÃ¡ apresentar o comprovante de inscriÃ§Ã£o para o TOEFL.</p>
+        <h3>Ainda não tenho o TOEFL. Posso enviar depois?</h3>
+        <p>Caso não possua o teste com a pontuação exigida, a Capes aceitará como documento o comprovante de inscrição para realização da prova, que deverá ser anexado à inscrição on-line no lugar do documento "teste de proficiência". O candidato deverá apresentar o TOEFL com, no mínimo, 79 pontos ou 2. O candidato , caso ainda não possua a pontuação exigida pela Capes , poderá apresentar o comprovante de inscrição para o TOEFL.</p>
         <br />
 
 
-        <h3>Ainda nÃ£o concluÃ­ a graduaÃ§Ã£o, posso participar do programa?</h3>
-        <p>Sim, desde que tenha concluÃ­do de 20% a no mÃ¡ximo 90% do curso na instituiÃ§Ã£o de ensino brasileira e esteja devidamente matriculado. Neste caso, a aluno pode pleitear a bolsa GraduaÃ§Ã£o SanduÃ­che no Exterior (SWG) para fazer intercÃ¢mbio de 6 a 12 meses no exterior,de acordo com cada Chamada.</p>
+        <h3>Ainda não concluí a graduação, posso participar do programa?</h3>
+        <p>Sim, desde que tenha concluído de 20% a no máximo 90% do curso na instituição de ensino brasileira e esteja devidamente matriculado. Neste caso, a aluno pode pleitear a bolsa Graduação Sanduíche no Exterior (SWG) para fazer intercâmbio de 6 a 12 meses no exterior,de acordo com cada Chamada.</p>
         <br />
 
         <h3>Sou aluno PIBIC, como devo proceder?</h3>
-        <p>VocÃª deverÃ¡ comunicar o setor responsÃ¡vel (PIBIC) sobre a sua aprovaÃ§Ã£o para que a bolsa seja cancelada no momento em que for aceito pela Universidade destino. o CNPq nÃ£o autoriza o acumulo de bolsas, portanto no momento da sua aprovaÃ§Ã£o a bolsa PIBIC deverÃ¡ ser suspensa.</p>
+        <p>Você deverá comunicar o setor responsável (PIBIC) sobre a sua aprovação para que a bolsa seja cancelada no momento em que for aceito pela Universidade destino. o CNPq não autoriza o acumulo de bolsas, portanto no momento da sua aprovação a bolsa PIBIC deverá ser suspensa.</p>
         <br />
 
-        <h3>Onde devo anexar os documentos exigidos na inscriÃ§Ã£o?</h3>
-        <p>Os documentos da inscriÃ§Ã£o exigidos na chamada pÃºblica devem ser anexados dentro do formulÃ¡rio de inscriÃ§Ã£o disponÃ­vel no link "formulÃ¡rio de inscriÃ§Ãµes da Capes". O mesmo deverÃ¡ ser anexado em PDF.</p>
+        <h3>Onde devo anexar os documentos exigidos na inscrição?</h3>
+        <p>Os documentos da inscrição exigidos na chamada pública devem ser anexados dentro do formulário de inscrição disponível no link "formulário de inscrições da Capes". O mesmo deverá ser anexado em PDF.</p>
         <br />
 
-        <h3>A documentaÃ§Ã£o exigida pode ser enviada por e-mail?</h3>
-        <p>NÃ£o. As documentaÃ§Ãµes exigidas deverÃ£o ser enviadas pelo site da Capes, na pÃ¡gina do programa, respeitando o respectivo calendÃ¡rio. Lembrando que todos os documentos devem estar no formato PDF.</p>
+        <h3>A documentação exigida pode ser enviada por e-mail?</h3>
+        <p>Não. As documentações exigidas deverão ser enviadas pelo site da Capes, na página do programa, respeitando o respectivo calendário. Lembrando que todos os documentos devem estar no formato PDF.</p>
         <br />
 
-        <h3>Tenho Bolsa auxÃ­lio da Puc, ProUNI ou FIES, como devo proceder?</h3>
-        <p>VocÃª deverÃ¡ comunicar o setor do PIBIC caso tenha qualquer auxÃ­lio para cursar a graduaÃ§Ã£o na Universidade, seja Bolsa PUC, FIES ou ProUNI, o mesmo deverÃ¡ ser suspenso pelo setor (PIBIC) e o aluno deverÃ¡ comparecer ao SIGA para assinar o termo de "suspensÃ£o temporÃ¡ria", assim a bolsa nÃ£o serÃ¡ cancelada tendo o aluno direito de reativÃ¡-la no seu retorno Ã  PUC.</p>
+        <h3>Tenho Bolsa auxílio da Puc, ProUNI ou FIES, como devo proceder?</h3>
+        <p>Você deverá comunicar o setor do PIBIC caso tenha qualquer auxílio para cursar a graduação na Universidade, seja Bolsa PUC, FIES ou ProUNI, o mesmo deverá ser suspenso pelo setor (PIBIC) e o aluno deverá comparecer ao SIGA para assinar o termo de "suspensão temporária", assim a bolsa não será cancelada tendo o aluno direito de reativá-la no seu retorno à PUC.</p>
         <br />
 
-        <h3>Qual Ã© o valor da bolsa para alunos que vÃ£o para o Exterior?</h3>
-        <p>No site do CiÃªncia Sem Fronteiras na chamada de cada PaÃ­s tem os valores especÃ­ficos. Os valores variam de um PaÃ­s para o outro.</p>
+        <h3>Qual é o valor da bolsa para alunos que vão para o Exterior?</h3>
+        <p>No site do Ciência Sem Fronteiras na chamada de cada País tem os valores específicos. Os valores variam de um País para o outro.</p>
         <br />
 
-        <h3>Quando ficarei sabendo para qual instituiÃ§Ã£o irei?</h3>
-        <p>ApÃ³s a divulgaÃ§Ã£o do resultado das aplicaÃ§Ãµes nas universidades estrangeiras dos candidatos selecionados pelos institutos intermediÃ¡rios, quando for disponibilizada a resposta da aplicaÃ§Ã£o, o candidato serÃ¡ comunicado por e-mail e/ou correios em qual Universidade foi aceito, no qual serÃ¡ esclarecido o procedimento para os passos posteriores.</p>
+        <h3>Quando ficarei sabendo para qual instituição irei?</h3>
+        <p>Após a divulgação do resultado das aplicações nas universidades estrangeiras dos candidatos selecionados pelos institutos intermediários, quando for disponibilizada a resposta da aplicação, o candidato será comunicado por e-mail e/ou correios em qual Universidade foi aceito, no qual será esclarecido o procedimento para os passos posteriores.</p>
         <br />
 
-        <h3>Posso escolher a universidade nos EUA, Alemanha, ItÃ¡lia, FranÃ§a, Alemanha, CanadÃ¡ e demais paÃ­ses para ingresso?</h3>
-        <p>Os institutos que intermedeiam as universidades estrangeiras e as agÃªncias responsÃ¡veis pelo programa CiÃªncia sem Fronteiras serÃ£o os responsÃ¡veis por aplicar as universidades, utilizando a pertinÃªncia quanto Ã s Ã¡reas prioritÃ¡rias do Programa CiÃªncia sem Fronteiras.</p>
+        <h3>Posso escolher a universidade nos EUA, Alemanha, Itália, França, Alemanha, Canadá e demais países para ingresso?</h3>
+        <p>Os institutos que intermedeiam as universidades estrangeiras e as agências responsáveis pelo programa Ciência sem Fronteiras serão os responsáveis por aplicar as universidades, utilizando a pertinência quanto às áreas prioritárias do Programa Ciência sem Fronteiras.</p>
         <br />
 
       

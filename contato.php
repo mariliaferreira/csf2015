@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>CiÃªncias sem Fronteiras</title>
+    <title>Ciências sem Fronteiras</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -39,23 +39,23 @@
         </div>
         
         <div class="col-md-4">
-        <h4><strong>CoordenaÃ§Ã£o da IniciaÃ§Ã£o CientÃ­fica</strong></h4>
+        <h4><strong>Coordenação da Iniciação Científica</strong></h4>
         <p><strong>Cleybe Vieira</strong><br />
             cleybe.vieira@pucpr.br<br />
             55(41)3271-2112 | 3271-1602<br />
-            Rua Imaculada ConceiÃ§Ã£o, 1155<br />
-            PrÃ©dio Administrativo - 6Âº Andar CÃ¢mpus Curitiba<br />
+            Rua Imaculada Conceição, 1155<br />
+            Prédio Administrativo - 6º Andar Câmpus Curitiba<br />
             Bairro Prado Velho - CEP 80215-901<br />
-            Curitiba - ParanÃ¡ - Brasil</p>
+            Curitiba - Paraná - Brasil</p>
         </div>
 
         <div class="col-md-4">
-        <h4><strong>CoordenaÃ§Ã£o de IntercÃ¢mbio Internacional e CooperaÃ§Ã£o</strong></h4>
+        <h4><strong>Coordenação de Intercâmbio Internacional e Cooperação</strong></h4>
         <p>+55(41)3271-1556 | 3271-1697<br />
-        Rua Imaculada ConceiÃ§Ã£o, 1155<br />
-        PrÃ©dio Administrativo - TÃ©rreo CÃ¢mpus Curitiba<br />
+        Rua Imaculada Conceição, 1155<br />
+        Prédio Administrativo - Térreo Câmpus Curitiba<br />
         Bairro Prado Velho - CEP 80215-901<br />
-        Curitiba - ParanÃ¡ - Brasil</p>
+        Curitiba - Paraná - Brasil</p>
         </div>
 
         <div class="col-md-4" style="padding-bottom: 60px;">
@@ -66,7 +66,7 @@
             <strong>Valesca Walesko</strong><br />
             intercambio@pucpr.br<br />
             <br />
-            <strong>LÃ­dia Maria Weretychi Kowalski</strong><br />
+            <strong>Lídia Maria Weretychi Kowalski</strong><br />
             csf@pucpr.br</p>
         </div>
 

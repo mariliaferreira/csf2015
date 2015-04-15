@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>CiÃªncias sem Fronteiras</title>
+    <title>Ciências sem Fronteiras</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -61,7 +61,7 @@
           <img class="second-slide" src="img/photo-55.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Depoimento dos intercÃ¢mbistas CsF da PUC.</h1>
+              <h1>Depoimento dos intercâmbistas CsF da PUC.</h1>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
               <p><a class="btn btn-lg btn-primary botao-home" href="#" role="button">Ver detalhes</a></p>
             </div>
@@ -84,7 +84,7 @@
       </a>
       <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
         <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">PrÃ³ximo</span>
+        <span class="sr-only">Próximo</span>
       </a>
     </div><!-- /.carousel -->
 
@@ -100,19 +100,19 @@
         <div class="col-lg-4">
           <img class="img-circle" src="img/graficos-icone.png" alt="Generic placeholder image" width="140" height="140">
           <h2>Indicadores CsF PUCPR</h2>
-          <p>Resultados do CiÃªncia sem Fronteiras na PUCPR desde 2012.</p>
+          <p>Resultados do Ciência sem Fronteiras na PUCPR desde 2012.</p>
           <p><a class="btn btn-default btn-indicadores" href="indicadores.php" role="button">Ver detalhes &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4 depoimento-div">
           <img class="img-circle" src="img/depoimentos-icone.png" alt="Generic placeholder image" width="140" height="140">
           <h2>Depoimentos</h2>
-          <p>Saiba como foi a experiÃªncia dos alunos PUCPR que jÃ¡ foram para o intercÃ¢mbio CiÃªncia sem Fronteiras.</p>
+          <p>Saiba como foi a experiência dos alunos PUCPR que já foram para o intercâmbio Ciência sem Fronteiras.</p>
           <p><a class="btn btn-default btn-depoimentos" href="depoimentos.php" role="button">Ver detalhes &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4 duvidas-div">
           <img class="img-circle" src="img/duvidas-icone.png" alt="Generic placeholder image" width="140" height="140">
-          <h2>DÃºvidas?</h2>
-          <p>Acesse a nossa sessÃ£o de Perguntas Frequentes e tire suas dÃºvidas.</p>
+          <h2>Dúvidas?</h2>
+          <p>Acesse a nossa sessão de Perguntas Frequentes e tire suas dúvidas.</p>
           <p><a class="btn btn-default btn-duvidas" href="#" role="button">Ver detalhes &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
@@ -124,8 +124,8 @@
 
       <div class="row featurette"  data-sr="enter bottom, hustle 10px">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Alunos aprovam 100% o CiÃªncia sem Fronteiras<span class="text-muted"></span></h2>
-          <p class="lead">100% dos alunos responderam que fariam o intercÃ¢mbio novamente. Ainda estÃ¡ com dÃºvidas que o CiÃªncia sem Fronteiras Ã© uma Ã³tima oportunidade para sua carreira? Veja o <a href="depoimentos.php">depoimento dos alunos</a>.</p>
+          <h2 class="featurette-heading">Alunos aprovam 100% o Ciência sem Fronteiras<span class="text-muted"></span></h2>
+          <p class="lead">100% dos alunos responderam que fariam o intercâmbio novamente. Ainda está com dúvidas que o Ciência sem Fronteiras é uma ótima oportunidade para sua carreira? Veja o <a href="depoimentos.php">depoimento dos alunos</a>.</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="img/thumbsup-icone.png" alt="Generic placeholder image">
@@ -136,8 +136,8 @@
 
       <div class="row featurette"  data-sr="enter bottom, hustle 10px">
         <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">Alunos aprovam 100% o CiÃªncia sem Fronteiras<span class="text-muted"></span></h2>
-          <p class="lead">100% dos alunos responderam que fariam o intercÃ¢mbio novamente. Ainda estÃ¡ com dÃºvidas que o CiÃªncia sem Fronteiras Ã© uma Ã³tima oportunidade para sua carreira? Veja o <a href="depoimentos.php">depoimento dos alunos</a>.</p>
+          <h2 class="featurette-heading">Alunos aprovam 100% o Ciência sem Fronteiras<span class="text-muted"></span></h2>
+          <p class="lead">100% dos alunos responderam que fariam o intercâmbio novamente. Ainda está com dúvidas que o Ciência sem Fronteiras é uma ótima oportunidade para sua carreira? Veja o <a href="depoimentos.php">depoimento dos alunos</a>.</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="img/thumbsup-icone.png" alt="Generic placeholder image">
@@ -148,8 +148,8 @@
 
       <div class="row featurette"  data-sr="enter bottom, hustle 10px">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Alunos aprovam 100% o CiÃªncia sem Fronteiras<span class="text-muted"></span></h2>
-          <p class="lead">100% dos alunos responderam que fariam o intercÃ¢mbio novamente. Ainda estÃ¡ com dÃºvidas que o CiÃªncia sem Fronteiras Ã© uma Ã³tima oportunidade para sua carreira? Veja o <a href="depoimentos.php">depoimento dos alunos</a>.</p>
+          <h2 class="featurette-heading">Alunos aprovam 100% o Ciência sem Fronteiras<span class="text-muted"></span></h2>
+          <p class="lead">100% dos alunos responderam que fariam o intercâmbio novamente. Ainda está com dúvidas que o Ciência sem Fronteiras é uma ótima oportunidade para sua carreira? Veja o <a href="depoimentos.php">depoimento dos alunos</a>.</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="img/thumbsup-icone.png" alt="Generic placeholder image">

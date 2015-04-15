@@ -1,8 +1,8 @@
  <footer>
         <p class="pull-right"><a href="#">Voltar para o topo</a></p>
-        <p><strong>PontifÃ­cia Universidade CatÃ³lica do ParanÃ¡</strong></p>
+        <p><strong>Pontifícia Universidade Católica do Paraná</strong></p>
         <br />
-        <p>CoordenaÃ§Ã£o de IniciaÃ§Ã£o CientÃ­fica<br />
+        <p>Coordenação de Iniciação Científica<br />
         (41) 3271-2112 | 3271-1602<br />
         	pibicpr@pucpr.br
         </p>

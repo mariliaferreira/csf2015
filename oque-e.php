@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>CiÃªncias sem Fronteiras</title>
+    <title>Ciências sem Fronteiras</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -35,36 +35,36 @@
 
 
         <div class="page-header">
-          <h1>O que Ã©?</h1>
+          <h1>O que é?</h1>
         </div>
         <div class="oquee">
         
 
-        <p>O Programa CiÃªncia sem Fronteiras objetiva propiciar a formaÃ§Ã£o de recursos humanos altamente qualificados nas melhores 
-          universidades e instituiÃ§Ãµes de pesquisa estrangeiras, com vistas a promover a internacionalizaÃ§Ã£o da ciÃªncia e da tecnologia 
-          nacional, estimulando estudos e pesquisas de brasileiros no exterior, inclusive com a expansÃ£o significativa do intercÃ¢mbio e da mobilidade de graduandos.</p>
+        <p>O Programa Ciência sem Fronteiras objetiva propiciar a formação de recursos humanos altamente qualificados nas melhores 
+          universidades e instituições de pesquisa estrangeiras, com vistas a promover a internacionalização da ciência e da tecnologia 
+          nacional, estimulando estudos e pesquisas de brasileiros no exterior, inclusive com a expansão significativa do intercâmbio e da mobilidade de graduandos.</p>
           <br />
 
-          <p><strong>Objetivos especÃ­ficos:</strong></p>
+          <p><strong>Objetivos específicos:</strong></p>
 
           <ul>
-          <li>oferecer oportunidade de estudo a discentes brasileiros em universidades de excelÃªncia, bem como oferecer a possibilidade de 
-          estÃ¡gio programado de pesquisa ou inovaÃ§Ã£o tecnolÃ³gica com acompanhamento;</li>
+          <li>oferecer oportunidade de estudo a discentes brasileiros em universidades de excelência, bem como oferecer a possibilidade de 
+          estágio programado de pesquisa ou inovação tecnológica com acompanhamento;</li>
 
 
-          <li>permitir a atualizaÃ§Ã£o de conhecimentos em grades curriculares diferenciadas, possibilitando o acesso de estudantes 
-          brasileiros a instituiÃ§Ãµes de elevado padrÃ£o de qualidade, visando a complementar sua formaÃ§Ã£o tÃ©cnico-cientÃ­fica em Ã¡reas 
-          prioritÃ¡rias e estratÃ©gicas para o desenvolvimento do Brasil;</li>
+          <li>permitir a atualização de conhecimentos em grades curriculares diferenciadas, possibilitando o acesso de estudantes 
+          brasileiros a instituições de elevado padrão de qualidade, visando a complementar sua formação técnico-científica em áreas 
+          prioritárias e estratégicas para o desenvolvimento do Brasil;</li>
 
 
-          <li>complementar a formaÃ§Ã£o de estudantes brasileiros, dando-lhes a oportunidade de vivenciar experiÃªncias educacionais voltadas 
-          para a qualidade, o empreendedorismo, a competitividade e inovaÃ§Ã£o;</li>
+          <li>complementar a formação de estudantes brasileiros, dando-lhes a oportunidade de vivenciar experiências educacionais voltadas 
+          para a qualidade, o empreendedorismo, a competitividade e inovação;</li>
 
 
-          <li>estimular iniciativas de internacionalizaÃ§Ã£o das universidades brasileiras;</li>
+          <li>estimular iniciativas de internacionalização das universidades brasileiras;</li>
 
 
-          <li>possibilitar a formaÃ§Ã£o, com qualidade, de uma forÃ§a de trabalho tÃ©cnico-cientÃ­fica altamente especializada.</li>
+          <li>possibilitar a formação, com qualidade, de uma força de trabalho técnico-científica altamente especializada.</li>
 
           </ul>
         </div>
