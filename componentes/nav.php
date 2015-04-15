@@ -15,8 +15,8 @@
                 <li class="dropdown">
                   <a href="sobre-programa.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" style="color: #fff;">Sobre o Programa <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
-                    <li><a href="oque-e.php" style="color: #fff;">O que é?</a></li>
-                    <li><a href="editais.php" style="color: #fff">Editais</a></li>
+                    <li><a href="oque-e.php">O que é?</a></li>
+                    <li><a href="editais.php">Editais</a></li>
                     <!-- <li><a href="#">Something else here</a></li> -->
                     <!-- <li class="divider"></li>
                     <li class="dropdown-header">Nav header</li>

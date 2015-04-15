@@ -544,10 +544,10 @@ nav a{
   content: "\e078";
 }
 .glyphicon-chevron-left:before {
-  content: "\e079";
+  
 }
 .glyphicon-chevron-right:before {
-  content: "\e080";
+  
 }
 .glyphicon-plus-sign:before {
   content: "\e081";
@@ -637,10 +637,10 @@ nav a{
   content: "\e112";
 }
 .glyphicon-chevron-up:before {
-  content: "\e113";
+  
 }
 .glyphicon-chevron-down:before {
-  content: "\e114";
+  
 }
 .glyphicon-retweet:before {
   content: "\e115";
