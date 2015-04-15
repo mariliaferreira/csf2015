@@ -48,7 +48,7 @@
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="img/photo-44.jpg" alt="First slide">
+          <img class="first-slide" src="img/photo-99.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>Somos 328 alunos CsF PUCPR pelo mundo.</h1>
