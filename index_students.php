@@ -8,18 +8,13 @@
 ?>
 <body style="font-family: Arial;border: 0 none;">
 <div style="text-align: justify">
-<?php 
-	$txt = msg("csf_mapa");
-	$txt = troca($txt,' 50 ',' '.$total.' '); 
-	$txt = troca($txt,' 60 ',' '.$totali.' ');
-	
-	echo $txt;
-	
-	$txt = msg("csf_mapa_res");
-	$txt = troca($txt,'$est',' '.$total.' '); 
-	$txt = troca($txt,'$insc',' '.$totali.' ');
-	echo '<center>'.$txt.'</center>';
-	echo '<BR><BR>';
+<?php
+	echo '<table width="100%">';
+	echo '<TR><TD align="center" width="50%" class="">';
+	echo 'Total de alunos<BR><h2>'.$total.'</h2>';
+	echo '<TD align="center" width="50%" class="">'; 
+	echo 'Total de inscritos<BR><h2>'.$totali.'</h2>'; 
+	echo '</table>';
 ?></div>
 <br/><br/>
 <!--Chama metodo que gera os mapas e tabela dinamicos -->

@@ -1,5 +1,6 @@
 <?php
 require("db.php");
+require($include.'sisdoc_debug.php');
 ?>
 
 <!DOCTYPE html>
