@@ -2,7 +2,7 @@
 	require('../_class/_class_csf.php');
 	$csf = new csf;
 	
-	//Chama metodo que gera os quadro estatisticos
+	//Chama metodo que gera os quadros estatisticos
 	$total = $csf->total_bolsistas();
 	$totali = $csf->total_inscricoes();
 ?>

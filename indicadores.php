@@ -51,20 +51,21 @@
 
           <a href="mapa-csf-pucpr.php">
             <div class="botao-1">
-
               <span><i class="fa fa-map-marker"></i> Mapa dos bolsistas CsF</span>
             </div>
           </a>
 
-          <a href="pagina-grafico.php">
+          <a href="pagina-grafico.php"> 
             <div class="botao-1">
               <span>Bolsas por país</span>
+              
             </div>
           </a>
 
           <a href="pagina-grafico-1.php">
             <div class="botao-2">
               <span>Alunos CsF/PUCPR por áreas</span>
+
             </div>
           </a>
 
