@@ -10,10 +10,10 @@ require('cab.php');
         ?>
 
         <div class="page-header">
-          <h1>Gráficos Exemplo página</h1>
+          <h1>Perfíl dos cursos</h1>
           
         </div>
-        <p>  Texto a definir ainda</p>
+        <p>Texto a definir ainda</p>
         <p>Voltar para <a href="#">home</a> agora?.</p>
 		
 		<?php

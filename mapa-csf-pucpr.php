@@ -11,8 +11,10 @@ require('cab.php');
 	          <h1>Mapa dos bolsistas Ciência sem Fronteiras</h1>
 
 	        </div>
-	        <div class="indicadores-paragrafo">
-	          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+	        
+	        <div class="container">
+		        <p>Texto a definir ainda</p>
+	        	<p>Voltar para <a href="http://www2.pucpr.br/reol/csf2015/indicadores.php">indicadores</a> agora?.</p>
 	        </div>
 	      	<?php
 	        require('index_students.php');

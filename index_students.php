@@ -15,7 +15,8 @@
 	echo '<TD align="center" width="50%" class="">'; 
 	echo 'Total de inscritos<BR><h2>'.$totali.'</h2>'; 
 	echo '</table>';
-?></div>
+?>
+</div>
 <br/><br/>
 <!--Chama metodo que gera os mapas e tabela dinamicos -->
 	<center><?php echo $csf->world_mapa_estudantes(); ?></center>

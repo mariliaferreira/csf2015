@@ -3,29 +3,25 @@ require('cab.php');
 ?>
   <body>
     <div class="navbar-wrapper">
-      <div class="container">
+      	<div class="container">
+	        <?php
+	        require('componentes/nav.php');
+	        ?>
+	        <div class="page-header">
+	          <h1>Mapa dos bolsistas Ciência sem Fronteiras</h1>
 
-        <?php
-        require('componentes/nav.php');
-        ?>
-
-
-
-        <div class="page-header">
-          <h1>Gráficos Exemplo página</h1>
-          
-        </div>
-        <p>  Texto a definir ainda</p>
-        <p>Voltar para <a href="#">home</a> agora?.</p>
-		
-		<?php
-        	require('index_perfil.php');
-        ?>	
-
-      	<!-- FOOTER -->
-        <?php
-        require('componentes/footer.php');
-        ?>
+	        </div>
+	        <div class="container">
+	        <p>Texto a definir ainda</p>
+        	<p>Voltar para <a href="http://www2.pucpr.br/reol/csf2015/indicadores.php">indicadores</a> agora?.</p>
+	        </div>
+	      	<?php
+	        require('index_perfil.php');
+	        ?>
+	      	<!-- FOOTER -->
+	      	<?php
+	        require('componentes/footer.php');
+	        ?>
     	</div><!-- /.container -->
     </div>
   </div>
