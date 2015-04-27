@@ -9,9 +9,8 @@
 
 </div>
 
-
 <!--Chama metodo que gerar os dados -->
-<!--	<center><?php echo $csf->estudante_perfil();     ?></center>
+        <center><?php echo $csf->estudante_perfil();     ?></center>
 <!--	<center><?php echo $csf->estudantes_em_viagem(); ?></center>
 <!--	<center><?php echo $csf->estudantes_em_viagem_campus(); ?></center>	
 <!--Chama metodo que gera a relacao dos alunos por curso e pais -->		
