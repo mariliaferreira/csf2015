@@ -2,18 +2,26 @@
 	require('../_class/_class_csf.php');
 	$csf = new csf;
 	
-	
 	$total = $csf->total_bolsistas();
-	
-	echo '<div id="content">';
-		echo '<div style="text-align: justify">';
-		$txt = msg("csf_mapa");
-		$txt = troca($txt,' 50 ',' '.$total.' '); 
-		echo $txt;
-	echo '</div>';
-	
-	echo $csf->world_mapa_onde();
-	echo $csf->world_onde_pais_universidade();
-	
-	echo '</div>';
 ?>
+	<body style="font-family: Arial;border: 0 none;">
+	<div style="text-align: justify">
+
+</div>
+
+<!--Chama metodo que gerar os dados: -->
+  
+    <!--Chama metodo para: grafico e tabela de paises onde os alunos estão -->
+    <center><?php echo $csf->estudante_perfil();?></center>
+	<center><?php echo $csf->world_mapa_onde();?></center>
+	
+	
+<!--
+	
+	<center><?php echo $csf->estudantes_genero();?></center>
+	<center><?php echo $csf->grafico_estudantes_genero();?></center>
+	<center><?php echo $csf->estudantes_curso_instituicao();?></center>	
+	<center><?php echo $csf->lista_bolsistas();?></center>
+	<center><?php echo $csf->world_mapa_onde();?></center>
+			
+-->	

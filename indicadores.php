@@ -35,20 +35,15 @@
         require('componentes/nav.php');
         ?>
 
-
-
         <div class="page-header">
           <h1>Indicadores Ciência sem Fronteiras na PUCPR</h1>
         </div>
 
         <div class="indicadores-paragrafo">
-
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-
         </div>
 
         <div class="botoes-indicadores">
-
           <a href="mapa-csf-pucpr.php">
             <div class="botao-1">
               <span><i class="fa fa-map-marker"></i> Mapa dos bolsistas CsF</span>
@@ -58,20 +53,18 @@
           <a href="pagina-grafico.php"> 
             <div class="botao-1">
               <span>Bolsas por país</span>
-              
             </div>
           </a>
 
           <a href="pagina-grafico-1.php">
             <div class="botao-2">
-              <span>Alunos CsF/PUCPR por áreas</span>
-
+              <span>Estudantes CsF/PUCPR por áreas</span>
             </div>
           </a>
 
           <a href="pagina-grafico-2.php">
             <div class="botao-3">
-              <span>Alunos por curso</span>
+              <span>Estudantes por curso</span>
             </div>
           </a>
 
@@ -83,7 +76,7 @@
 
           <a href="pagina-grafico-4.php">
             <div class="botao-5">
-              <span>Bolsas por gênero</span>
+              <span>Gênero dos estudantes</span>
             </div>
           </a>
 

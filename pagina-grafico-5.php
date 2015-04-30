@@ -8,12 +8,11 @@ require('cab.php');
 	        require('componentes/nav.php');
 	        ?>
 	        <div class="page-header">
-	          <h1>Mapa dos bolsistas Ciência sem Fronteiras</h1>
-
+	          <!--<h1>Genero dos bolsistas</h1>-->
 	        </div>
 	        <div class="container">
 	        <p>Texto a definir ainda</p>
-        	<p>Voltar para <a href="http://www2.pucpr.br/reol/csf2015/indicadores.php">indicadores</a> agora?.</p>
+        	<p>Voltar para <a href="http://www2.pucpr.br/reol/csf2015/indicadores.php">indicadores</a></p>
 	        </div>
 	      	<?php
 	        require('index_perfil.php');
