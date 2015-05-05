@@ -8,11 +8,7 @@
 	<div style="text-align: justify">
 
 </div>
-
-<!--Chama metodo que gerar os dados: -->
-  
-    <!--Chama metodo para: grafico e tabela de paises onde os alunos estão -->
-    <center><?php echo $csf->estudante_perfil();?></center>
+    <center><?php echo $csf->estudante_curso();?></center>
 	
 
 	
