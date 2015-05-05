@@ -9,6 +9,3 @@
 
 </div>
     <center><?php echo $csf->estudante_curso();?></center>
-	
-
-	

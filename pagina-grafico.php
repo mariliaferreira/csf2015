@@ -11,7 +11,7 @@ require('cab.php');
 	          <!--<h1>Genero dos bolsistas</h1>-->
 	        </div>
 	        <div class="container">
-	        <p>Texto a definir ainda</p>
+	        <p>Distribuição de bolsas implementadas por país</p>
         	<p>Voltar para <a href="http://www2.pucpr.br/reol/csf2015/indicadores.php">indicadores</a></p>
 	        </div>
 	      	<?php

@@ -43,6 +43,7 @@
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
         </div>
 
+		<!--Mada mundi com divisão de bolsistas-->
         <div class="botoes-indicadores">
           <a href="mapa-csf-pucpr.php">
             <div class="botao-1">
@@ -58,16 +59,16 @@
 
           <a href="pagina-grafico-1.php">
             <div class="botao-2">
-              <span>Estudantes CsF/PUCPR por áreas</span>
-            </div>
-          </a>
-
-          <a href="pagina-grafico-2.php">
-            <div class="botao-3">
               <span>Estudantes por curso</span>
             </div>
           </a>
-
+		  	
+          <a href="pagina-grafico-2.php">
+            <div class="botao-3">
+              <span>Estudantes por curso e instituição</span>
+            </div>
+          </a>
+			
           <a href="pagina-grafico-3.php">
             <div class="botao-4">
               <span>Bolsas por formação</span>
@@ -79,13 +80,14 @@
               <span>Gênero dos estudantes</span>
             </div>
           </a>
-
+		  
+		  <!--		
           <a href="pagina-grafico-5.php">
             <div class="botao-6">
               <span>Perfil dos estudantes de Intercâmbio</span>
             </div>
           </a>
-
+		  -->	
         </div>
         
 

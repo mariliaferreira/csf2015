@@ -16,7 +16,7 @@ require('cab.php');
         	<p>Voltar para <a href="http://www2.pucpr.br/reol/csf2015/indicadores.php">indicadores</a></p>
 	        </div>
 	      	<?php
-	        	require('index_construcao.php');
+	        	require('index_areas.php');
 	        ?>
 	      	<!-- FOOTER -->
 	      	<?php
