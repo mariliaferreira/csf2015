@@ -8,7 +8,7 @@ require('cab.php');
 	        require('componentes/nav.php');
 	        ?>
 	        <div class="page-header">
-	          	<h1>Nossos bolsistas</h1>
+	          	<h1>Distribuição de Bolsas Implementadas por Gênero</h1>
 	        </div>
 	        <div class="container">
 	        	<p>Texto a definir ainda</p>

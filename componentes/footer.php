@@ -1,4 +1,5 @@
  <footer>
+ 		<br/>
         <p class="pull-right"><a href="#">Voltar para o topo</a></p>
         <p><strong>Pontifícia Universidade Católica do Paraná</strong></p>
         <br />
@@ -7,3 +8,4 @@
         	pibicpr@pucpr.br
         </p>
       </footer>
+      

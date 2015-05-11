@@ -12,13 +12,10 @@
     <link href="css/font-stylesheet.css" rel="stylesheet">
     <link href="css/font-awesome.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
-    
-
 
     <script src="js/bootstrap.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/npm.js"></script>
-
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -36,52 +33,53 @@
         ?>
 
         <div class="page-header">
-          <h1>Indicadores Ciência sem Fronteiras na PUCPR</h1>
+          <h1>Indicadores Ciência sem Fronteiras pela PUCPR</h1>
         </div>
 
         <div class="indicadores-paragrafo">
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
         </div>
 
-		<!--Mada mundi com divisão de bolsistas-->
+		<!--Botões-->
         <div class="botoes-indicadores">
-          <a href="mapa-csf-pucpr.php">
+          <!--Mada mundo-->	
+          <a href="pagina-mapa.php">
             <div class="botao-1">
               <span><i class="fa fa-map-marker"></i> Mapa dos bolsistas CsF</span>
             </div>
           </a>
-
+		  <!--Texto-->	
           <a href="pagina-grafico.php"> 
             <div class="botao-1">
               <span>Bolsas por país</span>
             </div>
           </a>
-
+          <!--Texto-->
           <a href="pagina-grafico-1.php">
             <div class="botao-2">
               <span>Estudantes por curso</span>
             </div>
           </a>
-		  	
+		  <!--Texto-->	
           <a href="pagina-grafico-2.php">
             <div class="botao-3">
               <span>Estudantes por curso e instituição</span>
             </div>
           </a>
-			
+		  <!--Texto-->	
           <a href="pagina-grafico-3.php">
             <div class="botao-4">
               <span>Bolsas por formação</span>
             </div>
           </a>
-
+          <!--Texto-->        
           <a href="pagina-grafico-4.php">
             <div class="botao-5">
               <span>Gênero dos estudantes</span>
             </div>
           </a>
 		  
-		  <!--		
+		  <!--
           <a href="pagina-grafico-5.php">
             <div class="botao-6">
               <span>Perfil dos estudantes de Intercâmbio</span>
@@ -89,18 +87,13 @@
           </a>
 		  -->	
         </div>
-        
 
     <div class="clear"></div>
-
-
-      
-
-
+    
       <!-- FOOTER -->
       <?php
         require('componentes/footer.php');
-        ?>
+      ?>
 
     </div><!-- /.container -->
 

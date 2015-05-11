@@ -9,12 +9,14 @@
 <body style="font-family: Arial;border: 0 none;">
 <div style="text-align: justify">
 <?php
+
 	echo '<table width="100%">';
 	echo '<TR><TD align="center" width="50%" class="">';
-	echo 'Total de alunos<BR><h2>'.$total.'</h2>';
-	//echo '<TD align="center" width="50%" class="">'; 
+	echo 'Total de alunos<BR><h2>'.$total.'</h2>';      
+	//echo '<TD align="center" width="50%" class="">';  
 	//echo 'Total de inscritos<BR><h2>'.$totali.'</h2>'; 
 	echo '</table>';
+	
 ?>
 </div>
 <!--Chama metodo que gera os mapas e tabela dinamicos -->
