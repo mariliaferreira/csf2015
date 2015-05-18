@@ -59,7 +59,7 @@
           <img class="first-slide" src="img/photo-99.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Somos 328 alunos CsF PUCPR pelo mundo.</h1>
+              <h1>Somos 322 alunos CsF PUCPR pelo mundo.</h1>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
               <p><a class="btn btn-lg btn-primary botao-home" href="#" role="button">Ver detalhes</a></p>
             </div>
