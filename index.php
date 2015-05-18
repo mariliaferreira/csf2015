@@ -100,22 +100,22 @@
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-4">
-          <img class="img-circle" src="img/graficos-icone.png" alt="Generic placeholder image" width="140" height="140">
-          <h2>Indicadores CsF PUCPR</h2>
-          <p>Resultados do Ciência sem Fronteiras na PUCPR desde 2012.</p>
+          <a href="indicadores.php"><img class="img-circle" src="img/graficos-icone.png" alt="Generic placeholder image" width="140" height="140"></a>
+          <h2><a href="indicadores.php" style="text-decoration: none; color: #b21120;">Indicadores CsF PUCPR</a></h2>
+          <p><a href="indicadores.php" style="color: #5a5a5a; text-decoration: none;">Resultados do Ciência sem Fronteiras na PUCPR desde 2012.</a></p>
           <p><a class="btn btn-default btn-indicadores" href="indicadores.php" role="button">Ver detalhes &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4 depoimento-div">
-          <img class="img-circle" src="img/depoimentos-icone.png" alt="Generic placeholder image" width="140" height="140">
-          <h2>Depoimentos</h2>
-          <p>Saiba como foi a experiência dos alunos PUCPR que já foram para o intercâmbio Ciência sem Fronteiras.</p>
+          <a href="depoimentos.php"><img class="img-circle" src="img/depoimentos-icone.png" alt="Generic placeholder image" width="140" height="140"></a>
+          <h2><a href="depoimentos.php" style="text-decoration: none; color: #39aebf;">Depoimentos</a></h2>
+          <p><a href="depoimentos.php" style="text-decoration: none; color: #5a5a5a;">Saiba como foi a experiência dos alunos PUCPR que já foram para o intercâmbio Ciência sem Fronteiras.</a></p>
           <p><a class="btn btn-default btn-depoimentos" href="depoimentos.php" role="button">Ver detalhes &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4 duvidas-div">
-          <img class="img-circle" src="img/duvidas-icone.png" alt="Generic placeholder image" width="140" height="140">
-          <h2>Dúvidas?</h2>
-          <p>Acesse a nossa sessão de Perguntas Frequentes e tire suas dúvidas.</p>
-          <p><a class="btn btn-default btn-duvidas" href="#" role="button">Ver detalhes &raquo;</a></p>
+          <a href="perguntas-frequentes.php"><img class="img-circle" src="img/duvidas-icone.png" alt="Generic placeholder image" width="140" height="140"></a>
+          <h2><a href="perguntas-frequentes.php" style="text-decoration: none; color: #35a433;">Dúvidas?</a></h2>
+          <p><a href="perguntas-frequentes.php" style="text-decoration: none; color: #5a5a5a;">Acesse a nossa sessão de Perguntas Frequentes e tire suas dúvidas.</a></p>
+          <p><a class="btn btn-default btn-duvidas" href="perguntas-frequentes.php" role="button">Ver detalhes &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
