@@ -28,6 +28,12 @@
   </head>
   
   <body>
+
+    <?php
+        require('componentes/headerpuc.php');
+    ?>
+
+
     <div class="navbar-wrapper">
       <div class="container">
 

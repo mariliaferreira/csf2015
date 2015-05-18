@@ -2,6 +2,7 @@
 require('cab.php');
 ?>
   <body>
+  	
     <div class="navbar-wrapper">
       	<div class="container">
 	        <?php
